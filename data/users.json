@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 5355915558,
+      "nick": "OllSallGon",
+      "name": "OllSallGon",
+      "last_name": null,
+      "permissions": 0
+    },
+    {
+      "id": 1021919114,
+      "nick": "sscdev",
+      "name": "trashy",
+      "last_name": null,
+      "permissions": 2
+    },
+    {
+      "id": 547517301,
+      "nick": "qwxfear66",
+      "name": "Pavel",
+      "last_name": null,
+      "permissions": 2
+    },
+    {
+      "id": 873606577,
+      "nick": "angelina1088",
+      "name": "Angelinе",
+      "last_name": null,
+      "permissions": 0
+    },
+    {
+      "id": 667607828,
+      "nick": "oort_moln",
+      "name": "Oort",
+      "last_name": "Cloud",
+      "permissions": 0
+    },
+    {
+      "id": 564684595,
+      "nick": "mwxkhmy",
+      "name": "mwxkhmy",
+      "last_name": null,
+      "permissions": 1
+    },
+    {
+      "id": 598736405,
+      "nick": "Sepu_I",
+      "name": "Sepu",
+      "last_name": null,
+      "permissions": 0
+    },
+    {
+      "id": 496942152,
+      "nick": "sarokrok",
+      "name": "Милана",
+      "last_name": "Никишина",
+      "permissions": 0
+    },
+    {
+      "id": 839922772,
+      "nick": null,
+      "name": "ForMula",
+      "last_name": null,
+      "permissions": 1
+    },
+    {
+      "id": 852673399,
+      "nick": null,
+      "name": "Илья",
+      "last_name": null,
+      "permissions": 1
+    },
+    {
+      "id": 399038559,
+      "nick": "Endoftheworldm",
+      "name": "Главный бухгалтер",
+      "last_name": null,
+      "permissions": 1
+    },
+    {
+      "id": 429992581,
+      "nick": "Sa1orik",
+      "name": "Тимофей",
+      "last_name": "Ковалёв",
+      "permissions": 0
+    },
+    {
+      "id": 599404275,
+      "nick": null,
+      "name": "Евгения",
+      "last_name": "Шаврей",
+      "permissions": 0
+    },
+    {
+      "id": 547121112,
+      "nick": null,
+      "name": "Валерий",
+      "last_name": "Шаврей",
+      "permissions": 0
+    },
+    {
+      "id": 757815695,
+      "nick": "vanius1",
+      "name": "Иван",
+      "last_name": null,
+      "permissions": 0
+    }
+  ]
+}

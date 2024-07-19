@@ -1,0 +1,1001 @@
+Пиво,Пивоварня,Стиль,ABV,IBU,Рейтинг
+Bud Light,Anheuser-Busch,Lager - American Light,4.2% ABV,6 IBU,2.335
+Heineken,Heineken,Lager - Pale,5% ABV,23 IBU,2.95
+IPA,Lagunitas Brewing Company,IPA - American,6.2% ABV,51 IBU,3.701
+Traditional Lager,Yuengling Brewery,Lager - American Amber / Red,4.5% ABV,12 IBU,3.496
+Corona Extra,Grupo Modelo,Lager - Mexican,4.6% ABV,18 IBU,3.124
+Stella Artois,Stella Artois,Pilsner - Other,5% ABV,24 IBU,3.27
+Belgian White,Blue Moon Brewing Company,Wheat Beer - Witbier / Blanche,5.4% ABV,9 IBU,3.5
+Goose IPA,Goose Island Beer Co.,IPA - American,5.9% ABV,55 IBU,3.511
+All Day IPA,Founders Brewing Co.,IPA - Session,4.7% ABV,42 IBU,3.692
+Budweiser,Anheuser-Busch,Lager - American,5% ABV,12 IBU,2.62
+Pale Ale,Sierra Nevada Brewing Co.,Pale Ale - American,5.6% ABV,38 IBU,3.624
+Fat Tire Ale,New Belgium Brewing Company,Blonde / Golden Ale - American,5.2% ABV,15 IBU,3.576
+OctoberFest,Samuel Adams,Märzen,5.3% ABV,16 IBU,3.61
+60 Minute IPA,Dogfish Head Craft Brewery,IPA - American,6% ABV,60 IBU,3.841
+Jai Alai®,Cigar City Brewing®,IPA - American,7.5% ABV,70 IBU,3.924
+Sculpin,Ballast Point Brewing Company,IPA - American,7% ABV,70 IBU,3.955
+Leffe Blonde / Blond,Abbaye de Leffe,Belgian Blonde,6.6% ABV,20 IBU,3.584
+Tripel Karmeliet,Brouwerij Bosteels,Belgian Tripel,8.4% ABV,16 IBU,3.99
+Stone IPA,Stone Brewing,IPA - American,6.9% ABV,71 IBU,3.751
+Heady Topper,The Alchemist,IPA - Imperial / Double,8% ABV,100 IBU,4.528
+Summer Ale,Samuel Adams,Wheat Beer - American Pale Wheat,5.3% ABV,8 IBU,3.414
+Oberon Ale,Bell's Brewery,Wheat Beer - American Pale Wheat,5.8% ABV,10 IBU,3.751
+Summer Shandy,Jacob Leinenkugel Brewing Company,Shandy / Radler,4.2% ABV,14 IBU,3.524
+Hoegaarden Wit / Blanche,Brouwerij Hoegaarden,Wheat Beer - Witbier / Blanche,4.9% ABV,15 IBU,3.551
+Big Wave,Kona Brewing Hawaii,Blonde / Golden Ale - American,4.4% ABV,21 IBU,3.521
+Torpedo Extra IPA,,Sierra Nevada Brewing Co.,7.2% ABV,65 IBU,3.722
+Pilsner Urquell,,Plzeňský Prazdroj,4.4% ABV,40 IBU,3.371
+Duvel,,Duvel Moortgat,8.5% ABV,33 IBU,3.723
+A Little Sumpin' Sumpin' Ale,,Lagunitas Brewing Company,7.5% ABV,64 IBU,3.782
+Paulaner Hefe-Weißbier / Hefe-Weizen / Weissbier,,Paulaner Brauerei,5.5% ABV,16 IBU,3.672
+Nastro Azzurro,,Birra Peroni,5.1% ABV,24 IBU,3.164
+Modelo Especial,,Grupo Modelo,4.5% ABV,18 IBU,3.13
+Dale's® Pale Ale,,Oskar Blues Brewery®,6.5% ABV,65 IBU,3.628
+La Chouffe Blond,,Brasserie d'Achouffe,8% ABV,20 IBU,3.82
+Dos Equis Lager Especial,,Cervecería Cuauhtémoc Moctezuma S.A. de C.V.,4.2% ABV,10 IBU,3.1
+Brooklyn Lager,,Brooklyn Brewery,5.2% ABV,33 IBU,3.452
+Birra Moretti L'Autentica / Ricetta Originale,,Birra Moretti,4.6% ABV,12 IBU,3.166
+312 Urban Wheat Ale,,Goose Island Beer Co.,4.2% ABV,18 IBU,3.435
+420 Extra Pale Ale,,SweetWater Brewing Company,5.7% ABV,39 IBU,3.611
+Asahi Super Dry,,Asahi Breweries,5% ABV,20 IBU,3.119
+Grolsch Premium Lager,,Koninklijke Grolsch,5% ABV,28 IBU,3.258
+Jupiler,,Brasserie Jupiler,5.2% ABV,25 IBU,3.244
+Pumking,,Southern Tier Brewing Company,8.6% ABV,33 IBU,3.924
+Newcastle Brown Ale,,John Smith's,4.7% ABV,18 IBU,3.391
+Michelob ULTRA,,Anheuser-Busch,4.2% ABV,10 IBU,2.517
+Smithwick's,,Guinness,4.5% ABV,N/A IBU,3.548
+Hazy Little Thing,,Sierra Nevada Brewing Co.,6.7% ABV,35 IBU,3.782
+Tank 7,,Boulevard Brewing Co.,8.5% ABV,38 IBU,3.762
+Belgian White,,Shock Top Brewing Co.,5.2% ABV,10 IBU,3.309
+Modelo Negra,,Grupo Modelo,5.4% ABV,16 IBU,3.306
+Dead Guy Ale,,Rogue Ales,6.8% ABV,40 IBU,3.705
+Pilsener,,Hertog Jan,5.1% ABV,21 IBU,3.627
+Pacífico Clara,,Grupo Modelo,4.5% ABV,15 IBU,3.168
+Cold Snap,,Samuel Adams,5.3% ABV,10 IBU,3.488
+Abt 12,,Brouwerij St.Bernardus,10% ABV,20 IBU,4.004
+Stone Delicious IPA,,Stone Brewing,7.7% ABV,75 IBU,3.723
+Dragon's Milk,,New Holland Brewing,11% ABV,30 IBU,4.055
+Allagash White,,Allagash Brewing Company,5.2% ABV,13 IBU,3.75
+Nugget Nectar,,Tröegs Independent Brewing,7.5% ABV,93 IBU,3.99
+Pseudo Sue,,Toppling Goliath Brewing Co.,5.8% ABV,45 IBU,4.118
+Arrogant Bastard Ale,,Arrogant Consortia,7.2% ABV,100 IBU,3.689
+Westmalle Trappist Tripel,,Brouwerij der Trappisten van Westmalle,9.5% ABV,40 IBU,3.816
+#9,,Magic Hat Brewing Company,5.1% ABV,20 IBU,3.559
+Pauwel Kwak,,Brouwerij Bosteels,8.4% ABV,20 IBU,3.767
+Chimay Grande Réserve (Blue),,Bières de Chimay,9% ABV,35 IBU,3.902
+Golden Monkey,,Victory Brewing Company,9.5% ABV,25 IBU,3.748
+Anti-Hero,,Revolution Brewing,6.7% ABV,65 IBU,3.813
+Dos Equis Ambar,,Cervecería Cuauhtémoc Moctezuma S.A. de C.V.,4.7% ABV,25 IBU,3.248
+Dirty Bastard,,Founders Brewing Co.,8.5% ABV,50 IBU,3.768
+Bitburger Premium Pils,,Bitburger Brauerei,4.8% ABV,23 IBU,3.2
+Celebration,,Sierra Nevada Brewing Co.,6.8% ABV,65 IBU,3.726
+Affligem Blonde,,Affligem Brouwerij,6.7% ABV,24 IBU,3.534
+Racer 5 IPA,,Bear Republic Brewing Co.,7.5% ABV,75 IBU,3.841
+Mad Elf,,Tröegs Independent Brewing,11% ABV,15 IBU,3.827
+Hopslam Ale,,Bell's Brewery,10% ABV,65 IBU,4.262
+Black Butte Porter,,Deschutes Brewery,5.5% ABV,30 IBU,3.809
+Orval,,Brasserie d'Orval,6.2% ABV,36 IBU,3.687
+Brooklyn East IPA,,Brooklyn Brewery,6.9% ABV,47 IBU,3.5
+Amstel,,Amstel Bier,5% ABV,21 IBU,2.872
+Christmas Ale,,Great Lakes Brewing Company,7.5% ABV,30 IBU,3.789
+Sucks,,Lagunitas Brewing Company,8% ABV,63 IBU,3.959
+Harpoon IPA,,Harpoon Brewery,6% ABV,42 IBU,3.503
+Focal Banger,,The Alchemist,7% ABV,90 IBU,4.403
+Beck's,,Brauerei Beck,4.9% ABV,21 IBU,2.952
+Red Stripe,,Desnoes & Geddes,4.7% ABV,23 IBU,3.104
+Trappistes Rochefort 10,,Abbaye Notre-Dame de Saint-Rémy,11.3% ABV,27 IBU,4.06
+La Trappe Quadrupel,,Bierbrouwerij De Koningshoeven,10% ABV,22 IBU,3.915
+Punkin Ale,,Dogfish Head Craft Brewery,7% ABV,28 IBU,3.742
+Furious,,Surly Brewing Company,6.7% ABV,100 IBU,3.854
+Bourbon County Brand Stout,,Goose Island Beer Co.,15.2% ABV,60 IBU,4.376
+Kentucky Breakfast Stout (KBS),,Founders Brewing Co.,12% ABV,70 IBU,4.379
+Leffe Brune / Bruin,,Abbaye de Leffe,6.5% ABV,20 IBU,3.541
+Duchesse de Bourgogne,,Brouwerij Verhaeghe,6.2% ABV,11 IBU,3.664
+Kentucky Bourbon Barrel Ale,,Lexington Brewing & Distilling Co.,8.2% ABV,19 IBU,3.848
+Dead Pony Club,,BrewDog,3.8% ABV,35 IBU,3.536
+Busch Light,,Anheuser-Busch,4.1% ABV,5 IBU,2.58
+London Pride,,Fuller's Griffin Brewery,4.1% ABV,30 IBU,3.408
+SeaQuench Ale,,Dogfish Head Craft Brewery,4.9% ABV,10 IBU,3.696
+Hell or High Watermelon,,21st Amendment Brewery,4.9% ABV,17 IBU,3.515
+Crisp Apple,,Angry Orchard Cider Company,5% ABV,10 IBU,3.538
+Westmalle Trappist Dubbel,,Brouwerij der Trappisten van Westmalle,7% ABV,30 IBU,3.694
+Raging Bitch,,Flying Dog Brewery,8.3% ABV,60 IBU,3.641
+Staropramen Premium / Ležák 12,,Pivovary Staropramen,5% ABV,27 IBU,3.243
+Porter,,Founders Brewing Co.,6.5% ABV,45 IBU,3.861
+Corona Light,,Grupo Modelo,4.1% ABV,18 IBU,2.801
+Purple Haze,,Abita Brewing Company,4.2% ABV,13 IBU,3.428
+Kilkenny,,Guinness,4.3% ABV,N/A IBU,3.404
+Resin,,Sixpoint Brewery,9.1% ABV,103 IBU,3.957
+Grimbergen Blonde,,Brouwerij Alken-Maes,6.7% ABV,22 IBU,3.491
+Alpha King,,3 Floyds Brewing,6.66% ABV,68 IBU,3.957
+Chimay Cinq Cents (White),,Bières de Chimay,8% ABV,38 IBU,3.732
+IPA,,SweetWater Brewing Company,6.3% ABV,50 IBU,3.667
+Gulden Draak Classic,,Brouwerij Van Steenberge,10.5% ABV,30 IBU,3.773
+DayTime IPA,,Lagunitas Brewing Company,4% ABV,31 IBU,3.537
+CORNET Oaked,,Brouwerij De Hoorn,8.5% ABV,25 IBU,3.611
+Hobgoblin Legendary Ruby Beer,,Wychwood Brewery,5.2% ABV,32 IBU,3.4
+Tiger,,Heineken Asia Pacific,5% ABV,18 IBU,2.949
+1664 Blanc,,Kronenbourg Brewery,5% ABV,7 IBU,3.487
+Young's Double Chocolate Stout,,Eagle Brewery (formerly Charles Wells),5.2% ABV,25 IBU,3.67
+Victory at Sea,,Ballast Point Brewing Company,10% ABV,60 IBU,4.058
+Backwoods Bastard,,Founders Brewing Co.,11% ABV,50 IBU,4.111
+Daisy Cutter Pale Ale,,Half Acre Beer Company,5.2% ABV,60 IBU,3.786
+Snake Dog IPA,,Flying Dog Brewery,7.1% ABV,60 IBU,3.594
+Accumulation IPA,,New Belgium Brewing Company,6.5% ABV,70 IBU,3.625
+Krombacher Pils,,Krombacher Gruppe,4.8% ABV,24 IBU,3.254
+805,,Firestone Walker Brewing Company,4.7% ABV,20 IBU,3.554
+Toasted Lager,,Blue Point Brewing Company,5.5% ABV,28 IBU,3.508
+King Sue,,Toppling Goliath Brewing Co.,7.8% ABV,100 IBU,4.31
+Hazelnut Brown Nectar,,Rogue Ales,5.6% ABV,33 IBU,3.792
+Green,,Tree House Brewing Company,7.5% ABV,90 IBU,4.425
+Stone Tangerine Express Hazy IPA,,Stone Brewing,6.7% ABV,75 IBU,3.678
+Saison Dupont,,Brasserie Dupont,6.5% ABV,30 IBU,3.691
+Trappistes Rochefort 8,,Abbaye Notre-Dame de Saint-Rémy,9.2% ABV,22 IBU,3.848
+Mirror Pond,,Deschutes Brewery,5% ABV,40 IBU,3.602
+Brew Free! or Die,,21st Amendment Brewery,6.8% ABV,65 IBU,3.755
+Banana Bread Beer,,Eagle Brewery (formerly Charles Wells),5.2% ABV,18 IBU,3.552
+Neck Oil,,Beavertown,4.3% ABV,31 IBU,3.639
+San Miguel (5.0%),,Carlsberg UK,5% ABV,4 IBU,2.991
+Miller Genuine Draft,,Miller Brewing Company,4.7% ABV,12 IBU,2.58
+Rodenbach Grand Cru,,Brouwerij Rodenbach,6% ABV,35 IBU,3.653
+Rübæus,,Founders Brewing Co.,5.7% ABV,15 IBU,3.735
+Honkers Ale,,Goose Island Beer Co.,4.3% ABV,30 IBU,3.409
+Old Chub®,,Oskar Blues Brewery®,8% ABV,30 IBU,3.729
+Trappist Westvleteren 12,,Brouwerij De Sint-Sixtusabdij van Westvleteren,10.2% ABV,38 IBU,4.488
+Mosaic Promise,,Founders Brewing Co.,5.5% ABV,50 IBU,3.762
+Chimay Première (Red),,Bières de Chimay,7% ABV,19 IBU,3.728
+M-43 N.E. India Pale Ale,,Old Nation Brewing Co.,6.8% ABV,65 IBU,4.173
+Pumpkinhead Ale,,Shipyard Brewing Company,4.5% ABV,18 IBU,3.616
+Organic Chocolate Stout,,Samuel Smith,5% ABV,28 IBU,4.044
+Namaste White,,Dogfish Head Craft Brewery,4.8% ABV,20 IBU,3.598
+Houblon Chouffe,,Brasserie d'Achouffe,9% ABV,47 IBU,3.674
+Bomb!,,Prairie Artisan Ales,13% ABV,65 IBU,4.296
+Stone Xocoveza,,Stone Brewing,8.1% ABV,50 IBU,4.017
+Amber,,Alaskan Brewing Co.,5.3% ABV,18 IBU,3.608
+Palm Spéciale,,Brouwerij Palm,5.2% ABV,18 IBU,3.357
+Brooklyn Summer Ale,,Brooklyn Brewery,5% ABV,18 IBU,3.45
+Bud Light Lime,,Anheuser-Busch,4.2% ABV,8 IBU,2.641
+Lagerbier Hell,,Augustiner-Bräu München,5.2% ABV,12 IBU,3.642
+Brown Shugga',,Lagunitas Brewing Company,10% ABV,51 IBU,3.743
+1554,,New Belgium Brewing Company,6% ABV,21 IBU,3.689
+Mooie Nel IPA / Northsea IPA,,Jopen,6.5% ABV,70 IBU,3.593
+Paulaner Münchner Hell / Münchner Lager / Original Munich Lager,,Paulaner Brauerei,4.9% ABV,20 IBU,3.446
+Shiner Holiday Cheer,,Spoetzl Brewery,5.4% ABV,22 IBU,3.595
+White Rascal,,Avery Brewing Co.,5.6% ABV,22 IBU,3.624
+IJwit,,Brouwerij 't IJ,6.5% ABV,21 IBU,3.678
+Summer Love,,Victory Brewing Company,5.2% ABV,25 IBU,3.456
+Schöfferhofer Grapefruit,,Radeberger Gruppe,2.5% ABV,N/A IBU,3.585
+Morland Old Speckled Hen,,Greene King,5% ABV,N/A IBU,3.368
+Porch Rocker,,Samuel Adams,4.5% ABV,8 IBU,3.509
+Maduro Brown Ale,,Cigar City Brewing®,5.5% ABV,25 IBU,3.76
+Moon Man,,New Glarus Brewing Company,5% ABV,N/A IBU,3.829
+Snowdrift Vanilla Porter,,Jacob Leinenkugel Brewing Company,6% ABV,16 IBU,3.525
+Foster's Lager,,Carlton & United Breweries,4% ABV,12 IBU,2.79
+Hop House 13 Lager,,Guinness,4.1% ABV,N/A IBU,3.374
+Gamma Ray,,Beavertown,5.4% ABV,45 IBU,3.732
+Original,,Innis & Gunn,6.6% ABV,18 IBU,3.544
+Castaway IPA,,Kona Brewing Hawaii,6% ABV,50 IBU,3.535
+La Trappe Blond,,Bierbrouwerij De Koningshoeven,6.5% ABV,20 IBU,3.671
+Pub Ale,,Boddington's Brewery,4.6% ABV,N/A IBU,3.383
+La Trappe Dubbel,,Bierbrouwerij De Koningshoeven,7% ABV,22 IBU,3.63
+IPA,,Odell Brewing Co.,7% ABV,60 IBU,3.843
+Fire Rock Pale Ale,,Kona Brewing Hawaii,5.8% ABV,35 IBU,3.463
+Ayinger Celebrator,,Ayinger Privatbrauerei,6.7% ABV,24 IBU,3.766
+Jaipur,,Thornbridge Brewery,5.9% ABV,55 IBU,3.546
+Duet,,Alpine Beer Company,7% ABV,41 IBU,3.953
+Axe Man,,Surly Brewing Company,7.2% ABV,65 IBU,4.113
+Flesh & Blood IPA,,Dogfish Head Craft Brewery,7.5% ABV,45 IBU,3.788
+Radeberger Pilsner,,Radeberger Gruppe,4.8% ABV,33 IBU,3.168
+Gouden Carolus Tripel,,Brouwerij Het Anker,9% ABV,30 IBU,3.821
+Hefeweizen,,Widmer Brothers Brewing,4.9% ABV,30 IBU,3.466
+Affligem Tripel,,Affligem Brouwerij,9% ABV,N/A IBU,3.667
+Narragansett Lager,,Narragansett Brewing Company,5% ABV,12 IBU,3.199
+Veltins Pilsener,,Brauerei VELTINS,4.8% ABV,30 IBU,3.173
+Modus Hoperandi,,Ska Brewing,6.8% ABV,75 IBU,3.746
+Tripel,,Brouwerij St.Bernardus,8% ABV,25 IBU,3.757
+Magners Original Irish Cider,,Magners Irish Cider,4.5% ABV,N/A IBU,3.302
+Straffe Hendrik Brugs Tripel Bier 9°,,Brouwerij De Halve Maan,9% ABV,35 IBU,3.758
+Grimbergen Dubbel,,Brouwerij Alken-Maes,6.5% ABV,22 IBU,3.585
+Delirium Nocturnum,,Delirium - Huyghe Brewery,8.5% ABV,24 IBU,3.768
+Icelandic White Ale,,Einstök Ölgerð,5.2% ABV,N/A IBU,3.666
+Sofie,,Goose Island Beer Co.,6.5% ABV,20 IBU,3.752
+The Substance,,Bissell Brothers Brewing Company,6.6% ABV,80 IBU,4.132
+IPA,,Brouwerij 't IJ,6.5% ABV,50 IBU,3.54
+12th of Never Ale,,Lagunitas Brewing Company,5.5% ABV,45 IBU,3.687
+Super Bock,,Super Bock Group,5.2% ABV,16 IBU,3.049
+Stone Ripper,,Stone Brewing,5.7% ABV,40 IBU,3.648
+Aventinus (TAP06),,Schneider Weisse G. Schneider & Sohn,8.2% ABV,16 IBU,3.818
+Straffe Hendrik Brugs Quadrupel Bier 11°,,Brouwerij De Halve Maan,11% ABV,35 IBU,3.889
+Original (TAP07),,Schneider Weisse G. Schneider & Sohn,5.4% ABV,14 IBU,3.665
+Speedway Stout,,AleSmith Brewing Company,12% ABV,70 IBU,4.173
+Oktoberfest,,Jacob Leinenkugel Brewing Company,5.1% ABV,20 IBU,3.39
+Finestkind IPA,,Smuttynose Brewing Co.,6.9% ABV,75 IBU,3.642
+Green Line Pale Ale,,Goose Island Beer Co.,5.4% ABV,30 IBU,3.478
+Oktoberfest Märzen / Original Münchner Märzen,,Paulaner Brauerei,5.8% ABV,20 IBU,3.681
+Indian Brown,,Dogfish Head Craft Brewery,7.2% ABV,50 IBU,3.762
+Trooper,,Robinsons Brewery,4.7% ABV,35 IBU,3.367
+Leffe Triple / Tripel,,Abbaye de Leffe,8.5% ABV,15 IBU,3.647
+Aecht Schlenkerla Rauchbier – Märzen,,"Schlenkerla (""Heller-Bräu"" Trum)",5.1% ABV,30 IBU,3.485
+Bloodline Blood Orange IPA,,Flying Dog Brewery,8% ABV,40 IBU,3.661
+ESB,,Fuller's Griffin Brewery,5.5% ABV,35 IBU,3.552
+5AM Saint,,BrewDog,5% ABV,35 IBU,3.618
+Natural Light,,Anheuser-Busch,4.2% ABV,10 IBU,2.153
+Delirium Red,,Delirium - Huyghe Brewery,8% ABV,10 IBU,3.582
+90 Shilling,,Odell Brewing Co.,5.3% ABV,27 IBU,3.699
+Vedett Extra Ordinary IPA,,Duvel Moortgat,5.5% ABV,40 IBU,3.491
+Azacca IPA,,Founders Brewing Co.,7% ABV,70 IBU,3.733
+Blood Orange Gose,,Anderson Valley Brewing Company,4.2% ABV,12 IBU,3.708
+Undercover Investigation Shut-Down Ale,,Lagunitas Brewing Company,9.7% ABV,66 IBU,3.86
+Bolleke De Koninck (APA),,Brouwerij De Koninck,5.2% ABV,23 IBU,3.338
+N'Ice Chouffe,,Brasserie d'Achouffe,10% ABV,25 IBU,3.661
+Guayabera®,,Cigar City Brewing®,5.5% ABV,50 IBU,3.713
+Moose Drool Brown Ale,,Big Sky Brewing Company,5.1% ABV,N/A IBU,3.637
+Salvator,,Paulaner Brauerei,7.9% ABV,28 IBU,3.599
+Żywiec,,Grupa Żywiec,5.6% ABV,24 IBU,3.102
+Big Eye,,Ballast Point Brewing Company,7% ABV,71 IBU,3.731
+Amber,,Abita Brewing Company,4.5% ABV,17 IBU,3.428
+Ayinger Bräuweisse,,Ayinger Privatbrauerei,5.1% ABV,13 IBU,3.717
+Black & Tan,,Yuengling Brewery,4.6% ABV,17 IBU,3.445
+Efes Pilsener,,Anadolu Efes,5% ABV,22 IBU,2.937
+Trippel,,New Belgium Brewing Company,8.5% ABV,43 IBU,3.594
+Caribbean Rum Cask,,Innis & Gunn,6.8% ABV,N/A IBU,3.594
+Doom Bar,,Sharp's Brewery,4% ABV,20 IBU,3.386
+Amber Ale,,Bell's Brewery,5.8% ABV,N/A IBU,3.595
+The Maharaja,,Avery Brewing Co.,10% ABV,102 IBU,4.03
+Brooklyn Sorachi Ace,,Brooklyn Brewery,7.2% ABV,34 IBU,3.631
+Night Owl Pumpkin Ale,,Elysian Brewing Company,6.7% ABV,N/A IBU,3.812
+Cherry Wheat,,Samuel Adams,5.3% ABV,23 IBU,3.419
+Red Chair NWPA,,Deschutes Brewery,6.2% ABV,60 IBU,3.704
+Affligem Dubbel,,Affligem Brouwerij,6.8% ABV,21 IBU,3.452
+Strongbow,,Bulmers Cider,5% ABV,N/A IBU,3.374
+Bud Light Platinum,,Anheuser-Busch,6% ABV,12 IBU,2.387
+Christmas Ale,,Brouwerij St.Bernardus,10% ABV,20 IBU,3.862
+Stiegl-Goldbräu / Stiegl Gold,,Stieglbrauerei zu Salzburg,5% ABV,20 IBU,3.323
+Big Bad Baptist,,Epic Brewing Company,11.5% ABV,65 IBU,4.169
+Camden Pale Ale,,Camden Town Brewery,4% ABV,38 IBU,3.465
+Gouden Carolus Classic,,Brouwerij Het Anker,8.5% ABV,25 IBU,3.736
+Maredsous Triple / Tripel,,Abbaye de Maredsous,10% ABV,20 IBU,3.721
+Old Fezziwig,,Samuel Adams,5.9% ABV,25 IBU,3.404
+Weisse / Hefe Weiße / Weissbier,,Hacker-Pschorr,5.5% ABV,12 IBU,3.675
+Harvest Pumpkin Ale,,Blue Moon Brewing Company,5.7% ABV,16 IBU,3.321
+Tangerine Wheat,,Lost Coast Brewery,5.2% ABV,15 IBU,3.677
+Bengali,,Sixpoint Brewery,6.6% ABV,66 IBU,3.715
+Bass Pale Ale,,Bass Brewers,5% ABV,49 IBU,3.325
+Pumpkin Ale,,Schlafly - The Saint Louis Brewery,8% ABV,16 IBU,3.911
+Scrimshaw,,North Coast Brewing Company,4.5% ABV,22 IBU,3.547
+DBA (Double Barrel Ale),,Firestone Walker Brewing Company,5% ABV,30 IBU,3.568
+Victoria,,Grupo Modelo,4% ABV,N/A IBU,3.167
+Oatmeal Stout,,Samuel Smith,5% ABV,32 IBU,3.801
+Stone Sublimely Self-Righteous Black IPA,,Stone Brewing,8.7% ABV,90 IBU,3.93
+Alter Ego,,Tree House Brewing Company,6.8% ABV,72 IBU,4.396
+Avalanche Amber Ale,,Breckenridge Brewery,5% ABV,19 IBU,3.511
+Eliot Ness Amber Lager,,Great Lakes Brewing Company,6.1% ABV,27 IBU,3.588
+"West Coast IPA (-2013, 2019-)",,Green Flash Brewing Company,7% ABV,95 IBU,3.837
+Total Domination,,Ninkasi Brewing Company,6.7% ABV,81 IBU,3.728
+Coconut Hiwa,,Maui Brewing Company,6% ABV,30 IBU,3.749
+Peeper,,Maine Beer Company,5.5% ABV,N/A IBU,3.826
+Gouden Carolus Whisky Infused,,Brouwerij Het Anker,11.7% ABV,15 IBU,4.003
+Tripel d'Anvers,,Brouwerij De Koninck,8% ABV,23 IBU,3.642
+Weizener,,Hertog Jan,5.7% ABV,16 IBU,3.592
+Burton Baton,,Dogfish Head Craft Brewery,10% ABV,70 IBU,4.058
+Früh Kölsch,,Cölner Hofbräu Früh,4.8% ABV,19 IBU,3.316
+Curieux,,Allagash Brewing Company,10.2% ABV,27 IBU,4.047
+Hop Drop ‘N Roll,,NoDa Brewing Company,7.2% ABV,81 IBU,3.965
+Schöfferhofer Hefeweizen / Weizen,,Radeberger Gruppe,5% ABV,14 IBU,3.487
+Piraat,,Brouwerij Van Steenberge,10.5% ABV,23 IBU,3.608
+Liliko'i Kepolo,,Avery Brewing Co.,5.4% ABV,10 IBU,3.751
+Proper Job,,St Austell Brewery,4.5% ABV,N/A IBU,3.445
+Mannenliefde,,Oedipus Brewing,6% ABV,25 IBU,3.462
+Superfuzz Blood Orange Pale,,Elysian Brewing Company,6.4% ABV,45 IBU,3.623
+7 Hop IPA,,Rogue Ales,7.77% ABV,76 IBU,3.891
+IPA,,Koninklijke Brand Bierbrouwerij,7% ABV,45 IBU,3.373
+Life in the Clouds,,Collective Arts Brewing,6.1% ABV,N/A IBU,3.888
+Stone Buenaveza Salt & Lime Lager,,Stone Brewing,4.7% ABV,13 IBU,3.391
+IPA,,Southern Tier Brewing Company,7% ABV,60 IBU,3.624
+Apocalypse IPA,,10 Barrel Brewing Co.,6.8% ABV,70 IBU,3.724
+Vanilla Java Porter,,Atwater Brewery,5% ABV,13 IBU,3.829
+Blood & Honey,,Revolver Brewing,7% ABV,20 IBU,3.71
+Scottish Ale,,Belhaven Brewery,5.2% ABV,28 IBU,3.581
+White Christmas,,Samuel Adams,5.8% ABV,8 IBU,3.388
+Red's Rye IPA,,Founders Brewing Co.,6.6% ABV,70 IBU,3.775
+Ransack the Universe,,Collective Arts Brewing,6.8% ABV,85 IBU,3.829
+Citra Hopped Live Pale Ale,,Southern Tier Brewing Company,5.5% ABV,37 IBU,3.667
+Grand Prestige,,Hertog Jan,10% ABV,25 IBU,3.816
+Barbãr,,Brasserie Lefebvre,8% ABV,20 IBU,3.488
+Avery IPA,,Avery Brewing Co.,6.5% ABV,69 IBU,3.618
+Ayinger Oktober Fest-Märzen,,Ayinger Privatbrauerei,5.8% ABV,25 IBU,3.814
+Neapolitan Milk Stout,,Saugatuck Brewing Company,6% ABV,37 IBU,3.829
+Rodenbach Classic,,Brouwerij Rodenbach,5.2% ABV,30 IBU,3.455
+Conway's Irish Ale,,Great Lakes Brewing Company,6.3% ABV,25 IBU,3.662
+Southern Pecan,,Lazy Magnolia Brewing Company,4.5% ABV,19 IBU,3.576
+Road 2 Ruin Double IPA,,Two Roads Brewing Company,8% ABV,78 IBU,3.815
+Yellow Rose,,Lone Pint Brewery,6.8% ABV,62 IBU,4.048
+Dunkel,,Warsteiner,4.8% ABV,28 IBU,3.646
+2XMAS,,Southern Tier Brewing Company,8% ABV,40 IBU,3.601
+Mango Even Keel,,Ballast Point Brewing Company,3.8% ABV,40 IBU,3.633
+Noa Pecan Mud Cake Stout,,Omnipollo,11% ABV,60 IBU,4.2
+Grunion Pale Ale,,Ballast Point Brewing Company,5.5% ABV,50 IBU,3.733
+New England IPA,,Samuel Adams,6.8% ABV,35 IBU,3.685
+Strawberry Lager,,Abita Brewing Company,4.2% ABV,13 IBU,3.42
+Monk's Café Flemish Sour Ale,,Brouwerij Van Steenberge,5.5% ABV,N/A IBU,3.838
+Paix Dieu,,Brasserie Caulier,10% ABV,24 IBU,3.77
+Landlord,,Timothy Taylor's Brewery,4.3% ABV,45 IBU,3.528
+Andygator,,Abita Brewing Company,8% ABV,25 IBU,3.542
+Rare Vos,,Brewery Ommegang,6.5% ABV,21 IBU,3.745
+Sága,,Summit Brewing Company,6.4% ABV,80 IBU,3.666
+Hop Gun IPA,,Funky Buddha Brewery,7% ABV,50 IBU,3.735
+Brother Thelonious,,North Coast Brewing Company,9.4% ABV,32 IBU,3.867
+Doggie Style,,Flying Dog Brewery,5.5% ABV,35 IBU,3.547
+Palo Santo Marron,,Dogfish Head Craft Brewery,12% ABV,50 IBU,3.968
+Wrench NEIPA,,Industrial Arts Brewing,7.1% ABV,N/A IBU,4.114
+Big Swell IPA,,Maui Brewing Company,6.8% ABV,70 IBU,3.687
+Cuvée des Jacobins Rouge,,Omer Vander Ghinste,5.5% ABV,11 IBU,3.929
+Batsquatch,,Rogue Ales,6.7% ABV,54 IBU,3.74
+IPA,,AleSmith Brewing Company,7.25% ABV,40 IBU,3.894
+Christmas Ale,,Breckenridge Brewery,7.1% ABV,22 IBU,3.568
+Petrus Aged Pale,,Brouwerij De Brabandere,7.3% ABV,24 IBU,3.586
+Turbodog,,Abita Brewing Company,5.6% ABV,28 IBU,3.528
+Trappistes Rochefort 6,,Abbaye Notre-Dame de Saint-Rémy,7.5% ABV,35 IBU,3.714
+Michelob AmberBock,,Anheuser-Busch,5.1% ABV,19 IBU,3.107
+"The Kimmie, the Yink and the Holy Gose Ale",,Anderson Valley Brewing Company,4.2% ABV,12 IBU,3.586
+Huma Lupa Licious,,Short's Brewing Company,7.7% ABV,70 IBU,3.742
+The Crisp,,Sixpoint Brewery,5.4% ABV,44 IBU,3.475
+Gaelic Ale,,Highland Brewing Company,5.5% ABV,30 IBU,3.627
+Chouffe Soleil,,Brasserie d'Achouffe,6% ABV,20 IBU,3.565
+Burning River Pale Ale,,Great Lakes Brewing Company,6% ABV,45 IBU,3.53
+Back in Black,,21st Amendment Brewery,6.8% ABV,65 IBU,3.734
+Hitachino Nest White Ale,,Kiuchi Brewery,5.5% ABV,13 IBU,3.619
+Grapefruit Shandy,,Jacob Leinenkugel Brewing Company,4.2% ABV,14 IBU,3.435
+Blue Paw Wild Blueberry,,Sea Dog Brewing Company,4.7% ABV,8 IBU,3.615
+Jubelale,,Deschutes Brewery,6.7% ABV,65 IBU,3.583
+Romantic Chemistry,,Dogfish Head Craft Brewery,7.2% ABV,40 IBU,3.777
+Lizard King,,Pipeworks Brewing Company,6% ABV,36 IBU,3.966
+Blood Orange Brew Free! or Die,,21st Amendment Brewery,7% ABV,70 IBU,3.772
+London Porter,,Fuller's Griffin Brewery,5.4% ABV,37 IBU,3.676
+Voodoo Ranger Atomic Pumpkin,,New Belgium Brewing Company,6.4% ABV,10 IBU,3.61
+8 Point American IPA,,Devils Backbone Brewing Company,6.2% ABV,N/A IBU,3.574
+Nelson,,Alpine Beer Company,7% ABV,40 IBU,4.054
+Vuur & Vlam,,Brouwerij de Molen,6.2% ABV,63 IBU,3.583
+Hop Ottin' IPA,,Anderson Valley Brewing Company,7% ABV,80 IBU,3.553
+Headwaters Ale,,Victory Brewing Company,5.2% ABV,45 IBU,3.552
+Floridian,,Funky Buddha Brewery,5.2% ABV,12 IBU,3.597
+MO,,Maine Beer Company,6% ABV,N/A IBU,4.008
+Amstel Light,,Amstel Bier,3.5% ABV,N/A IBU,2.709
+Midas Touch,,Dogfish Head Craft Brewery,9% ABV,12 IBU,3.783
+Another One,,Maine Beer Company,7% ABV,N/A IBU,4.109
+Original Alcoholic Ginger Beer,,John Crabbie & Co,4.8% ABV,N/A IBU,3.457
+Cali Creamin’,,Mother Earth Brewing Company,5% ABV,20 IBU,3.791
+Briney Melon Gose,,Anderson Valley Brewing Company,4.2% ABV,12 IBU,3.764
+Bumble Berry Honey Blueberry Ale,,Fat Head's Brewery,5.3% ABV,13 IBU,3.69
+Brooklyn Brown Ale,,Brooklyn Brewery,5.6% ABV,30 IBU,3.508
+Even More Jesus,,Evil Twin Brewing,12% ABV,75 IBU,4.101
+Paulaner Oktoberfest Bier,,Paulaner Brauerei,6% ABV,N/A IBU,3.545
+Mc Chouffe,,Brasserie d'Achouffe,8% ABV,20 IBU,3.642
+Invasion®,,Cigar City Brewing®,5% ABV,36 IBU,3.704
+La 150° Bionda,,G. Menabrea & Figli,4.8% ABV,20 IBU,3.224
+Sumatra Mountain Brown,,Founders Brewing Co.,9% ABV,40 IBU,4.054
+Grevensteiner Original Naturtrübes Landbier,,Brauerei VELTINS,5.2% ABV,23 IBU,3.424
+Ghost Ship,,Adnams,4.5% ABV,40 IBU,3.49
+Homestyle,,Bearded Iris Brewing,6% ABV,N/A IBU,4.001
+White Oak Jai Alai®,,Cigar City Brewing®,7.5% ABV,70 IBU,4.001
+Philadelphia Pale Ale,,Yards Brewing Co.,4.6% ABV,37 IBU,3.541
+Oude Geuze Boon,,Brouwerij Boon,7% ABV,22 IBU,3.381
+Aunt Sally,,Lagunitas Brewing Company,5.7% ABV,33 IBU,3.646
+Gose,,Westbrook Brewing Co.,4% ABV,5 IBU,3.918
+Extra Pale Ale (EPA),,Summit Brewing Company,5.2% ABV,45 IBU,3.556
+Sunday Morning Stout,,Weyerbacher Brewing Company,12.7% ABV,46 IBU,4.147
+Gouden Carolus Christmas / Noël,,Brouwerij Het Anker,10.5% ABV,11 IBU,3.612
+Hibernation Ale,,Great Divide Brewing Company,8.7% ABV,50 IBU,3.653
+Busch Beer,,Anheuser-Busch,4.7% ABV,N/A IBU,2.46
+Citra Ass Down,,Against the Grain Brewery,8.2% ABV,68 IBU,3.891
+Apple Ale,,Redd's Brewing Company,5% ABV,10 IBU,3.121
+Wild Turkey Bourbon Barrel Stout,,Anderson Valley Brewing Company,6.9% ABV,14 IBU,3.869
+Wit,,Brouwerij St.Bernardus,5.5% ABV,15 IBU,3.584
+The Truth,,Flying Dog Brewery,8.7% ABV,80 IBU,3.814
+Edelstoff,,Augustiner-Bräu München,5.6% ABV,17 IBU,3.619
+Edward,,Hill Farmstead Brewery,5.2% ABV,65 IBU,4.244
+Guinness Foreign Extra Stout,,Guinness,7.5% ABV,47 IBU,3.66
+Heineken 0.0,,Heineken,N/A ABV,N/A IBU,2.434
+Filou,,Kasteel Brouwerij Vanhonsebrouck,8.5% ABV,35 IBU,3.529
+Sea Hag IPA,,New England Brewing Co.,6.2% ABV,65 IBU,3.819
+Citrusinensis,,Lagunitas Brewing Company,7.7% ABV,49 IBU,3.865
+New DogTown Pale Ale,,Lagunitas Brewing Company,6.2% ABV,62 IBU,3.653
+Hop Knife Harvest,,Tröegs Independent Brewing,6.2% ABV,87 IBU,3.791
+Tripel,,Hertog Jan,8.5% ABV,22 IBU,3.644
+Deviant Dale's®,,Oskar Blues Brewery®,8% ABV,85 IBU,3.881
+Bombardier Amber Beer/Premium British Ale (Glorious English Ale),,Eagle Brewery (formerly Charles Wells),4.1% ABV,35 IBU,3.422
+Mosaic IPA,,Community Beer Company,8.6% ABV,85 IBU,3.845
+Maredsous Blonde / Blond,,Abbaye de Maredsous,6.5% ABV,N/A IBU,3.519
+HopBack Amber Ale,,Tröegs Independent Brewing,6% ABV,55 IBU,3.587
+Bel Air Sour,,Brooklyn Brewery,5.8% ABV,14 IBU,3.576
+Pranqster,,North Coast Brewing Company,7.6% ABV,20 IBU,3.753
+Ellie's Brown Ale,,Avery Brewing Co.,5.5% ABV,28 IBU,3.622
+Icelandic Arctic Pale Ale,,Einstök Ölgerð,5.6% ABV,N/A IBU,3.526
+Tongerlo Blond - Blonde,,Brouwerij Haacht Brasserie,6% ABV,20 IBU,3.509
+Hoponius Union,,Jack's Abby Craft Lagers,6.5% ABV,65 IBU,3.797
+Agave Wheat,,Breckenridge Brewery,4.4% ABV,13 IBU,3.505
+Zundert 8,,Trappistenbrouwerij de Kievit B.V.,8% ABV,34 IBU,3.656
+Barrel-Aged Ten FIDY®,,Oskar Blues Brewery®,12.5% ABV,75 IBU,4.357
+Crusher,,The Alchemist,8% ABV,110 IBU,4.34
+75 Minute IPA,,Dogfish Head Craft Brewery,7.5% ABV,75 IBU,3.968
+Summer Honey Wheat,,Blue Moon Brewing Company,5.2% ABV,15 IBU,3.317
+Nosferatu Imperial Red IPA,,Great Lakes Brewing Company,8% ABV,70 IBU,3.799
+Lil' Heaven Crushable IPA,,Two Roads Brewing Company,4.8% ABV,N/A IBU,3.663
+Ace Pineapple Cider,,Ace Cider (The California Cider Company),5% ABV,N/A IBU,3.79
+Blue,,SweetWater Brewing Company,4.6% ABV,10 IBU,3.535
+Cream Ale,,Genesee Brewing Company,5.2% ABV,9 IBU,3.027
+IPA,,Columbus Brewing Company,6.3% ABV,60 IBU,3.764
+Harvest Patch Shandy,,Jacob Leinenkugel Brewing Company,4.2% ABV,11 IBU,3.445
+Witte,,Brewery Ommegang,5.2% ABV,11 IBU,3.657
+Abrasive Double IPA,,Surly Brewing Company,9.2% ABV,100 IBU,4.2
+Brawler,,Yards Brewing Co.,4.2% ABV,12 IBU,3.555
+Post Road Pumpkin Ale,,Brooklyn Brewery,5% ABV,24 IBU,3.298
+Hapkin,,Brouwerij Alken-Maes,8.5% ABV,29 IBU,3.501
+IPA,,Lakefront Brewery,6.7% ABV,50 IBU,3.642
+Alfa (Aλφα) Beer,,Athenian Brewery,5% ABV,N/A IBU,2.968
+Night Time Ale,,Lagunitas Brewing Company,8.2% ABV,65 IBU,3.834
+Prime Pale,,Meantime Brewing Company,4.3% ABV,37 IBU,3.339
+Merry Monks,,Weyerbacher Brewing Company,9.3% ABV,15 IBU,3.788
+FAITH™ // HAZY PALE ALE,,Northern Monk,5% ABV,30 IBU,3.736
+RecreationAle,,Terrapin Beer Co.,4.2% ABV,34 IBU,3.565
+Pure Hoppiness,,Alpine Beer Company,8% ABV,61 IBU,4.022
+Summer Solstice,,Anderson Valley Brewing Company,5% ABV,5 IBU,3.551
+Blanche de Chambly,,Unibroue,5% ABV,10 IBU,3.662
+Grimbergen Tripel / Triple,,Brouwerij Alken-Maes,9% ABV,5 IBU,3.635
+A Little Sumpin' Extra! Ale,,Lagunitas Brewing Company,8.7% ABV,72 IBU,3.982
+The Waldos' Special Ale,,Lagunitas Brewing Company,11.7% ABV,100 IBU,4.052
+Apocalyptic Thunder Juice,,Amundsen Brewery,6.5% ABV,50 IBU,3.742
+Spitfire Amber Kentish Ale,,Shepherd Neame,4.5% ABV,36 IBU,3.252
+Tribute,,St Austell Brewery,4.2% ABV,35 IBU,3.466
+Chocolate Bock,,Samuel Adams,5.8% ABV,11 IBU,3.57
+Cidre,,Stella Artois,4.5% ABV,10 IBU,3.442
+.394 Pale Ale,,AleSmith Brewing Company,6% ABV,26 IBU,3.786
+Rebel Grapefruit IPA,,Samuel Adams,6.3% ABV,52 IBU,3.454
+Joe IPA,,10 Barrel Brewing Co.,6.9% ABV,70 IBU,3.746
+Swami's IPA,,Pizza Port Brewing Company,6.8% ABV,72 IBU,3.827
+Budweiser Select,,Anheuser-Busch,4.3% ABV,11 IBU,2.542
+Winter Solstice,,Anderson Valley Brewing Company,6.9% ABV,5 IBU,3.642
+Imperial Pumpkin Ale,,Weyerbacher Brewing Company,8% ABV,21 IBU,3.763
+Colette Farmhouse Ale,,Great Divide Brewing Company,7.3% ABV,35 IBU,3.599
+Petrus Red,,Brouwerij De Brabandere,8.5% ABV,20 IBU,3.606
+White Rajah,,The Brew Kettle,6.8% ABV,70 IBU,3.987
+Switchback Ale,,Switchback Brewing Company,5% ABV,28 IBU,3.629
+Boat Beer,,Carton Brewing Company,4.2% ABV,35 IBU,3.721
+Hopfenweisse (TAP05),,Schneider Weisse G. Schneider & Sohn,8.2% ABV,40 IBU,3.786
+Rebel Rouser,,Samuel Adams,8.4% ABV,85 IBU,3.585
+Funky Falcon,,Two Chefs Brewing,5.2% ABV,25 IBU,3.505
+Grimbergen Double Ambrée,,Kronenbourg Brewery,6.5% ABV,22 IBU,3.467
+Brahma Chopp,,AmBev,4.8% ABV,10 IBU,2.713
+Rainier,,Pabst Brewing Company,4.6% ABV,10 IBU,3.029
+Cinnamon Horchata Ale,,Blue Moon Brewing Company,5.5% ABV,10 IBU,3.438
+Nut Brown Ale,,Samuel Smith,5% ABV,30 IBU,3.599
+Koko Brown,,Kona Brewing Hawaii,5.5% ABV,28 IBU,3.658
+4 Luppoli Originale,,Birrificio Angelo Poretti,5% ABV,22 IBU,3.119
+Brugse Zot Dubbel,,Brouwerij De Halve Maan,7.5% ABV,27 IBU,3.534
+Curmudgeon Old Ale,,Founders Brewing Co.,9.8% ABV,50 IBU,3.837
+Conehead,,Zero Gravity Craft Brewery,5.7% ABV,49 IBU,3.808
+80-Acre Hoppy Wheat Beer,,Boulevard Brewing Co.,5.5% ABV,20 IBU,3.609
+Boont Amber Ale,,Anderson Valley Brewing Company,5.8% ABV,15 IBU,3.512
+Tegernseer Hell,,Herzoglich Bayerisches Brauhaus Tegernsee,4.8% ABV,14 IBU,3.629
+Pipeline Porter,,Kona Brewing Hawaii,5.3% ABV,23 IBU,3.676
+Alhambra Reserva 1925,,Grupo Cervezas Alhambra,6.4% ABV,25 IBU,3.357
+Alien Church,,Tired Hands Brewing Company,7% ABV,25 IBU,4.215
+Wake-n-Bake Coffee Oatmeal Imperial Stout,,Terrapin Beer Co.,9.4% ABV,50 IBU,4.025
+Greene King IPA,,Greene King,3.6% ABV,24 IBU,2.835
+Alexander Keith's India Pale Ale,,Oland Brewery / A. Keith's Brewery,5% ABV,20 IBU,3.037
+Reef Donkey,,Tampa Bay Brewing Company,5.5% ABV,36 IBU,3.686
+Abbey Ale,,Brewery Ommegang,8.2% ABV,20 IBU,3.795
+Tart 'n Juicy,,Epic Brewing Company,5.1% ABV,60 IBU,3.728
+Twilight Summer Ale,,Deschutes Brewery,5% ABV,38 IBU,3.516
+Fireside Chat,,21st Amendment Brewery,7.9% ABV,45 IBU,3.633
+Original Pale Ale,,Coopers,4.5% ABV,24 IBU,3.214
+Hansa Pilsner,,Hansa Borg Bryggerier,4.7% ABV,22 IBU,2.93
+Corsendonk Agnus Tripel / Abbey Pale Ale,,Brouwerij Corsendonk,7.5% ABV,30 IBU,3.631
+Summerfest,,Sierra Nevada Brewing Co.,5% ABV,28 IBU,3.482
+Hoppy Birthday,,Alpine Beer Company,5.25% ABV,60 IBU,3.857
+GoneAway,,Half Acre Beer Company,7.1% ABV,60 IBU,3.921
+Tripel,,Allagash Brewing Company,9% ABV,18 IBU,3.872
+Ichabod,,New Holland Brewing,4.5% ABV,26 IBU,3.512
+Achel Tripel,,De Achelse Kluis,8% ABV,20 IBU,3.672
+Indie,,BrewDog,4.2% ABV,30 IBU,3.17
+Rosetta,,Brewery Ommegang,5.6% ABV,9 IBU,3.838
+A Ship Full of IPA,,Brutal Brewing,5.8% ABV,40 IBU,3.393
+Old Brown Dog Ale,,Smuttynose Brewing Co.,6.5% ABV,30 IBU,3.618
+Canoe Paddle Kölsch,,Jacob Leinenkugel Brewing Company,5% ABV,11 IBU,3.328
+Aventinus Eisbock (TAP09),,Schneider Weisse G. Schneider & Sohn,12% ABV,15 IBU,3.798
+Astra Urtyp / Premium,,Holsten-Brauerei AG,4.9% ABV,28 IBU,3.072
+Victoria,,AB InBev Belgium,8.5% ABV,33 IBU,3.399
+Seef Bier,,Antwerpse Brouw Compagnie,6.5% ABV,17 IBU,3.526
+Leffe Rituel 9°,,Abbaye de Leffe,9% ABV,25 IBU,3.64
+Pedigree,,Marston's Brewery,4.5% ABV,N/A IBU,3.068
+Cranberry Ginger Shandy,,Jacob Leinenkugel Brewing Company,4.2% ABV,11 IBU,3.296
+Icy Bay,,Alaskan Brewing Co.,6.2% ABV,65 IBU,3.573
+Karakter,,Hertog Jan,7.5% ABV,21 IBU,3.508
+Firemans #4,,Real Ale Brewing Company,5.1% ABV,23 IBU,3.478
+Bodhizafa,,Georgetown Brewing Company,6.9% ABV,80 IBU,3.96
+Kriek Lambic,,Brouwerij Mort Subite,4% ABV,N/A IBU,3.496
+Chimay Dorée (Gold),,Bières de Chimay,4.8% ABV,16 IBU,3.554
+Big Daddy IPA,,Speakeasy Ales & Lagers,6.5% ABV,60 IBU,3.593
+Honeycrisp Apple Wheat,,Shock Top Brewing Co.,5.2% ABV,N/A IBU,3.271
+Fist City,,Revolution Brewing,5.5% ABV,45 IBU,3.77
+Orange Shandy,,Jacob Leinenkugel Brewing Company,4.2% ABV,11 IBU,3.311
+Sawtooth Ale,,Left Hand Brewing Company,5.3% ABV,27 IBU,3.516
+Long Trail Ale,,Long Trail Brewing Company,5% ABV,28 IBU,3.456
+Piraat Triple Hop,,Brouwerij Van Steenberge,10.5% ABV,65 IBU,3.53
+Inedit Damm,,Damm,4.8% ABV,11 IBU,3.497
+Maudite,,Unibroue,8% ABV,22 IBU,3.778
+Corsendonk Pater Dubbel / Abbey Brown Ale,,Brouwerij Corsendonk,7.5% ABV,23 IBU,3.54
+Riverwest Stein,,Lakefront Brewery,5.6% ABV,24 IBU,3.612
+Trois Pistoles,,Unibroue,9% ABV,16 IBU,3.865
+HopStorm® IPA,,BJ's Restaurant & Brewhouse,6.5% ABV,65 IBU,3.548
+Beer Geek Breakfast,,Mikkeller,7.5% ABV,N/A IBU,3.879
+Harvest Ale,,Founders Brewing Co.,7.6% ABV,70 IBU,3.934
+Faxe Premium,,Royal Unibrew,5% ABV,N/A IBU,2.979
+The Sixth Glass,,Boulevard Brewing Co.,10.2% ABV,22 IBU,3.882
+ESB,,Redhook Brewery,5.8% ABV,28 IBU,3.439
+Life & Death,,Vocation Brewery,6.5% ABV,N/A IBU,3.741
+Old Man Winter Ale,,Southern Tier Brewing Company,7.5% ABV,57 IBU,3.509
+Ichnusa Anima Sarda,,Ichnusa,4.7% ABV,N/A IBU,2.967
+Woodchuck Amber Hard Cider,,Woodchuck Cidery,5% ABV,N/A IBU,3.472
+Maneblusser,,Brouwerij Het Anker,5.8% ABV,20 IBU,3.457
+Kentucky Vanilla Barrel Cream Ale,,Lexington Brewing & Distilling Co.,5.5% ABV,22 IBU,3.857
+Consecration,,Russian River Brewing Company,10% ABV,10 IBU,4.305
+Tasty Juice,,LERVIG,6% ABV,45 IBU,3.87
+Hopscape,,Samuel Adams,5.5% ABV,30 IBU,3.481
+Pale Ale,,Founders Brewing Co.,5.4% ABV,35 IBU,3.543
+Fantasy Factory,,Karben⁴ Brewing,6.3% ABV,65 IBU,3.846
+reDANKulous,,Founders Brewing Co.,9.5% ABV,90 IBU,3.967
+Northern Lights,,Starr Hill Brewery,6.2% ABV,55 IBU,3.549
+Erdinger Alkoholfrei,,Erdinger Weissbräu,0.4% ABV,17 IBU,2.889
+Fistmas,,Revolution Brewing,6.5% ABV,31 IBU,3.679
+Radio the Mothership,,Collective Arts Brewing,8.5% ABV,100 IBU,3.737
+Harvest Autumn IPA,,Southern Tier Brewing Company,6.7% ABV,55 IBU,3.533
+Maes Pils,,Brouwerij Alken-Maes,5.2% ABV,15 IBU,2.853
+Camp Wannamango,,Harpoon Brewery,5% ABV,22 IBU,3.638
+Nanny State,,BrewDog,0.5% ABV,45 IBU,2.695
+Lupulus Blonde,,Brasserie Lupulus,8.5% ABV,27 IBU,3.602
+Orange Ave. Wit,,Coronado Brewing Company,5.2% ABV,15 IBU,3.555
+Blazing World,,Modern Times Beer,6.8% ABV,60 IBU,3.795
+Maredsous Brune / Bruin,,Abbaye de Maredsous,8% ABV,24 IBU,3.614
+Cherry Chouffe,,Brasserie d'Achouffe,8% ABV,10 IBU,3.489
+Apex Predator,,Off Color Brewing,6.5% ABV,46 IBU,3.823
+Lucky 13 (Mondo Large Red Ale),,Lagunitas Brewing Company,8.8% ABV,77 IBU,3.834
+Saison,,Brasserie St-Feuillien,6.5% ABV,28 IBU,3.551
+La Rossa / Malto Brunito,,Birra Moretti,7.2% ABV,16 IBU,3.4
+Wolf Among Weeds,,Golden Road Brewing,8% ABV,80 IBU,3.857
+Coffee Bender,,Surly Brewing Company,5.1% ABV,N/A IBU,3.911
+Simtra Triple IPA,,Knee Deep Brewing Company,11.25% ABV,131 IBU,4.113
+Bikini Blonde Lager,,Maui Brewing Company,4.8% ABV,18 IBU,3.507
+Wainwright The Golden Beer,,Marston's Brewery,4.1% ABV,N/A IBU,3.279
+Whale's Tale Pale Ale,,Cisco Brewers,5.6% ABV,40 IBU,3.444
+Bourbon Barrel-Aged Arrogant Bastard,,Arrogant Consortia,8.1% ABV,100 IBU,3.857
+Manny's Pale Ale,,Georgetown Brewing Company,5.4% ABV,38 IBU,3.613
+Alfa Edel Pils,,Alfa Bierbrouwerij,5% ABV,23 IBU,3.259
+Natte,,Brouwerij 't IJ,6.5% ABV,22 IBU,3.385
+Domaine DuPage,,Two Brothers Brewing Company,6.2% ABV,24 IBU,3.601
+Le Freak,,Green Flash Brewing Company,9.2% ABV,101 IBU,3.778
+Abbot Ale,,Greene King,5% ABV,50 IBU,3.293
+Taddy Porter,,Samuel Smith,5% ABV,32 IBU,3.667
+California Kölsch,,Ballast Point Brewing Company,5.2% ABV,23 IBU,3.47
+Trackdown,,Uiltje Brewing Company,5.5% ABV,14 IBU,3.584
+Kentucky Coffee Barrel Stout,,Lexington Brewing & Distilling Co.,8% ABV,18 IBU,3.749
+All Citra Everything,,Other Half Brewing Co.,8.5% ABV,N/A IBU,4.38
+Chocolate Stout,,Rogue Ales,5.8% ABV,69 IBU,3.808
+Barney Flats Oatmeal Stout,,Anderson Valley Brewing Company,5.7% ABV,14 IBU,3.615
+Red Trolley Ale,,Karl Strauss Brewing Company,5.8% ABV,17 IBU,3.605
+The Shape of Hops to Come,,Neshaminy Creek Brewing Company,8.5% ABV,98 IBU,3.974
+Tropic Thunder,,Dugges Bryggeri,4.5% ABV,N/A IBU,3.827
+Murphy's Irish Red,,Heineken Ireland,5.2% ABV,N/A IBU,3.288
+Pale Ale,,Boulevard Brewing Co.,5.4% ABV,30 IBU,3.555
+Sunset Wheat,,Jacob Leinenkugel Brewing Company,4.9% ABV,14 IBU,3.524
+Art Car IPA,,Saint Arnold Brewing Company,7.2% ABV,55 IBU,3.772
+Avec Les Bons Vœux,,Brasserie Dupont,9.5% ABV,28 IBU,3.803
+Idiot IPA,,Coronado Brewing Company,8.5% ABV,90 IBU,3.771
+Lucky Jack,,LERVIG,4.7% ABV,45 IBU,3.497
+Sunshine Daydream,,Fat Head's Brewery,4.9% ABV,50 IBU,3.716
+Norm's Raggedy Ass IPA,,Griffin Claw Brewing Company,7.2% ABV,65 IBU,3.763
+Relax [it's just a hazy IPA],,Offshoot Beer Co.,6.8% ABV,N/A IBU,3.969
+Abraxas,,Perennial Artisan Ales,11.5% ABV,80 IBU,4.405
+African Amber,,Mac & Jack's Brewing Company,5.8% ABV,30 IBU,3.71
+Calm Before The Storm,,Ballast Point Brewing Company,5.5% ABV,15 IBU,3.808
+Fortunate Islands,,Modern Times Beer,5% ABV,40 IBU,3.768
+HopHands,,Tired Hands Brewing Company,5.5% ABV,45 IBU,4.008
+Brooklyn Blast!,,Brooklyn Brewery,8.4% ABV,53 IBU,3.802
+Stone Mocha IPA,,Stone Brewing,9% ABV,80 IBU,3.97
+La Folie,,New Belgium Brewing Company,6.5% ABV,18 IBU,3.941
+Honeyspot Road IPA,,Two Roads Brewing Company,6% ABV,55 IBU,3.619
+Averbode,,Huisbrouwerij Averbode,7.5% ABV,34 IBU,3.569
+Wild Sour Series: Here Gose Nothin',,DESTIHL Brewery,5.2% ABV,12 IBU,3.73
+LeFort,,Omer Vander Ghinste,10% ABV,18 IBU,3.62
+Down to Earth,,21st Amendment Brewery,4.4% ABV,42 IBU,3.669
+White,,Alaskan Brewing Co.,5.3% ABV,15 IBU,3.536
+Pineapple Mana Wheat,,Maui Brewing Company,5.5% ABV,18 IBU,3.636
+Pistonhead Kustom Lager,,Brutal Brewing,4.9% ABV,27 IBU,3.104
+IPA,,Westbrook Brewing Co.,6.8% ABV,35 IBU,3.754
+Pumpkin,,UFO Beer,5.9% ABV,20 IBU,3.576
+Paulaner Hefe-Weißbier Dunkel,,Paulaner Brauerei,5.3% ABV,12 IBU,3.549
+Amstel Radler 2.0 Citroen,,Amstel Bier,2% ABV,N/A IBU,3.125
+Pumpkin Wheat,,Shock Top Brewing Co.,5.1% ABV,N/A IBU,3.159
+Alexander,,Brouwerij Rodenbach,5.6% ABV,9 IBU,3.962
+La Goudale - Blonde à l'Ancienne,,Brasserie Goudale - Les Brasseurs de Gayant,7.2% ABV,28 IBU,3.438
+Adriaan Wit,,Jopen,5% ABV,12 IBU,3.451
+Rainbow Sherbet,,Prairie Artisan Ales,5.2% ABV,N/A IBU,3.961
+Super Session IPA #2 (Amarillo),,Lawson's Finest Liquids,4.8% ABV,N/A IBU,4.021
+Pistonhead Flat Tire,,Brutal Brewing,4.5% ABV,26 IBU,3.254
+Somersby Apple Cider,,Carlsberg Group,4.5% ABV,2 IBU,3.293
+Devil's Backbone,,Real Ale Brewing Company,8.1% ABV,35 IBU,3.695
+World Wide Stout,,Dogfish Head Craft Brewery,18% ABV,70 IBU,4.232
+Bockbier,,Hertog Jan,6.5% ABV,23 IBU,3.485
+Hi-Res,,Sixpoint Brewery,11.1% ABV,115 IBU,4.055
+Ruedrich's Red Seal Ale,,North Coast Brewing Company,5.4% ABV,42 IBU,3.501
+Val-Dieu Triple,,Brasserie de l'Abbaye du Val-Dieu,9% ABV,20 IBU,3.672
+Fancy Lawnmower,,Saint Arnold Brewing Company,4.9% ABV,20 IBU,3.533
+Amazing Haze,,Stigbergets Bryggeri,6.5% ABV,80 IBU,3.874
+Drumroll,,Odell Brewing Co.,5.3% ABV,42 IBU,3.751
+Imperial Stout,,Samuel Smith,7% ABV,35 IBU,3.731
+Christmas Bomb!,,Prairie Artisan Ales,13% ABV,65 IBU,4.105
+Winter Lager,,Samuel Adams,5.6% ABV,22 IBU,3.532
+Old Engine Oil,,Harviestoun Brewery,6% ABV,40 IBU,3.734
+Xtra,,Surly Brewing Company,4.5% ABV,N/A IBU,3.745
+Gouden Carolus Hopsinjoor,,Brouwerij Het Anker,8% ABV,30 IBU,3.593
+Fresh as Helles,,Samuel Adams,5.4% ABV,18 IBU,3.458
+Wanderlust IPA,,Breakside Brewery,6.5% ABV,64 IBU,3.896
+Citra,,Oakham Ales,4.2% ABV,N/A IBU,3.622
+Leffe Ruby,,Abbaye de Leffe,5% ABV,10 IBU,3.178
+Karhu III,,Sinebrychoff,4.6% ABV,16 IBU,2.837
+Barrel-Aged Narwhal,,Sierra Nevada Brewing Co.,11.9% ABV,50 IBU,4.188
+Dirty Blonde,,Atwater Brewery,4.5% ABV,8 IBU,3.527
+Corona Premier,,Grupo Modelo,4% ABV,7 IBU,2.951
+Third Shift - Amber Lager,,Coors Brewing Company,5.3% ABV,21 IBU,3.045
+Last Snow,,Funky Buddha Brewery,6.4% ABV,35 IBU,4.295
+Ongelovige Thomas / Doubting Thomas,,Jopen,10% ABV,40 IBU,3.655
+Sticky Toffee Pudding Ale,,Eagle Brewery (formerly Charles Wells),5% ABV,N/A IBU,3.446
+Pale Ale,,Little Creatures Brewing,5.1% ABV,36 IBU,3.575
+Red Oak,,Red Oak Brewery,5% ABV,18 IBU,3.729
+Hopalicious,,Ale Asylum,5.7% ABV,52 IBU,3.738
+Pale Ale,,Omission Brewing,5.8% ABV,33 IBU,3.255
+Passion Fruit Kicker,,Green Flash Brewing Company,5.5% ABV,5 IBU,3.623
+Shakespeare Oatmeal Stout,,Rogue Ales,5.7% ABV,60 IBU,3.718
+Pennsylvania Tuxedo,,Dogfish Head Craft Brewery,8.5% ABV,50 IBU,3.784
+O'Hara's Irish Pale Ale,,O'Hara's Brewery,5.2% ABV,45 IBU,3.427
+Mischief,,The Bruery,8.5% ABV,35 IBU,3.796
+Pumpkin Down,,Ballast Point Brewing Company,5.8% ABV,22 IBU,3.722
+Aloha Sculpin,,Ballast Point Brewing Company,7% ABV,70 IBU,3.775
+Fruitlands,,Modern Times Beer,4.8% ABV,17 IBU,3.816
+a tiny beautiful something,,Maine Beer Company,5.5% ABV,N/A IBU,3.94
+Mocha Porter,,Rogue Ales,5.6% ABV,47 IBU,3.591
+O'Hara's Irish Red,,O'Hara's Brewery,4.3% ABV,25 IBU,3.301
+Honey Weiss,,Jacob Leinenkugel Brewing Company,4.9% ABV,14 IBU,3.285
+VanderGhinste Roodbruin,,Omer Vander Ghinste,5.5% ABV,15 IBU,3.664
+Vallejo,,Half Acre Beer Company,6.7% ABV,68 IBU,3.894
+Dead Rise Old Bay Summer Ale,,Flying Dog Brewery,5.6% ABV,25 IBU,3.446
+Glorious,,Lord Hobo Brewing Co.,6.5% ABV,72 IBU,3.829
+Bush Caractère,,Brasserie Dubuisson,12% ABV,25 IBU,3.618
+Even Keel,,Ballast Point Brewing Company,3.8% ABV,51 IBU,3.643
+Trappist Westvleteren 8,,Brouwerij De Sint-Sixtusabdij van Westvleteren,8% ABV,35 IBU,4.195
+12 Dogs of Christmas Ale,,Thirsty Dog Brewing Company,8.3% ABV,21 IBU,3.821
+Val-Dieu Blonde,,Brasserie de l'Abbaye du Val-Dieu,6% ABV,18 IBU,3.448
+Juicy Ass,,Flying Monkeys Craft Brewery,6.5% ABV,69 IBU,3.75
+Life,,Lord Hobo Brewing Co.,4.5% ABV,74 IBU,3.719
+Clementine,,Clown Shoes,5% ABV,20 IBU,3.465
+Whitewater IPA,,Samuel Adams,5.8% ABV,60 IBU,3.297
+Sleepy Bulldog Pale Ale,,Gotlands Bryggeri,4.8% ABV,40 IBU,3.402
+Poperings Hommelbier,,Leroy Breweries,7.5% ABV,35 IBU,3.455
+Michelob Golden Light,,Anheuser-Busch,4.1% ABV,N/A IBU,2.831
+Delirium Argentum,,Delirium - Huyghe Brewery,7% ABV,48 IBU,3.602
+Xingu Black Beer,,Cervejas Premium do Brasil Ltda,4.6% ABV,20 IBU,3.446
+Strawberry Lemonade Naturdays,,Anheuser-Busch,4.2% ABV,N/A IBU,3.237
+Santa's Private Reserve Ale (2019),,Rogue Ales,8.1% ABV,20 IBU,3.427
+Puff,,Sixpoint Brewery,9.8% ABV,108 IBU,4.032
+Bourgogne des Flandres Brune / Bruin,,Brewery John Martin & Brewery Timmermans,5% ABV,N/A IBU,3.521
+A Little Crazy,,Revolution Brewing,6.8% ABV,35 IBU,3.758
+Gotta Get Up to Get Down,,Wiseacre Brewing Company,5% ABV,15 IBU,3.954
+Alpha Klaus,,3 Floyds Brewing,6% ABV,38 IBU,3.818
+HopFish India Pale Ale (IPA),,Flying Fish Brewing Co.,6.2% ABV,25 IBU,3.527
+Bloody 'Ell,,Beavertown,5.5% ABV,40 IBU,3.685
+Chocolate Oak Aged Yeti,,Great Divide Brewing Company,9.5% ABV,75 IBU,4.042
+Purple Monkey Dishwasher,,Evil Genius Beer Company,6.7% ABV,35 IBU,3.734
+Steam Brew Imperial IPA,,Privatbrauerei Eichbaum,7.8% ABV,70 IBU,3.109
+Stacy's Mom,,Evil Genius Beer Company,7.5% ABV,85 IBU,3.641
+Punkuccino Coffee Pumpkin Ale,,Elysian Brewing Company,6% ABV,N/A IBU,3.933
+Hel & Verdoemenis,,Brouwerij de Molen,10% ABV,102 IBU,3.858
+ZiegenBock Texas Amber,,Anheuser-Busch,4.9% ABV,N/A IBU,3.215
+Leffe Royale Whitbread Golding,,Abbaye de Leffe,7.5% ABV,33 IBU,3.659
+Stone Hazy IPA,,Stone Brewing,6.7% ABV,35 IBU,3.726
+West Sixth IPA,,West Sixth Brewing,7% ABV,80 IBU,3.698
+Hazed & Infused,,Boulder Beer,5% ABV,38 IBU,3.468
+Calico,,Ballast Point Brewing Company,5.5% ABV,51 IBU,3.537
+Roadsmary’s Baby,,Two Roads Brewing Company,6.8% ABV,N/A IBU,3.611
+Jeremiah Red®,,BJ's Restaurant & Brewhouse,7.3% ABV,25 IBU,3.622
+Rebel IPA,,Samuel Adams,6.5% ABV,45 IBU,3.481
+Perler For Svin,,LERVIG,6.3% ABV,35 IBU,3.787
+Honey Kölsch,,Rogue Ales,5% ABV,26 IBU,3.61
+Pacific Ale,,Stone & Wood,4.4% ABV,30 IBU,3.643
+Noble Pils,,Samuel Adams,4.9% ABV,34 IBU,3.349
+Old Chub® Nitro,,Oskar Blues Brewery®,6.9% ABV,N/A IBU,3.863
+Serendipity,,New Glarus Brewing Company,4% ABV,N/A IBU,4.202
+Cumberland,,Jennings Brewery,4% ABV,N/A IBU,3.056
+Fixed Gear,,Lakefront Brewery,6.1% ABV,46 IBU,3.58
+Festweisse (TAP04),,Schneider Weisse G. Schneider & Sohn,6.2% ABV,28 IBU,3.659
+India Pale Ale,,Fuller's Griffin Brewery,5.3% ABV,50 IBU,3.379
+Hobgoblin IPA,,Wychwood Brewery,5% ABV,50 IBU,3.511
+Judas,,Brouwerij Alken-Maes,8.5% ABV,N/A IBU,3.487
+Woods & Waters,,Maine Beer Company,6.2% ABV,N/A IBU,3.972
+Double Stout,,Green Flash Brewing Company,8.8% ABV,45 IBU,3.842
+Val-Dieu Grand Cru,,Brasserie de l'Abbaye du Val-Dieu,10.5% ABV,20 IBU,3.789
+American Pale Ale,,Shipyard Brewing Company,4.5% ABV,55 IBU,3.368
+Son of a Peach,,RJ Rockers Brewing Company,5% ABV,16 IBU,3.521
+Un*Earthly,,Southern Tier Brewing Company,9.5% ABV,75 IBU,3.86
+Christmas Ale,,Bell's Brewery,7.5% ABV,N/A IBU,3.737
+Double Chocolate Stout,,Rogue Ales,9% ABV,68 IBU,4.038
+Sumpin’ Easy,,Lagunitas Brewing Company,5.7% ABV,51 IBU,3.587
+Arctic Panzer Wolf,,3 Floyds Brewing,9% ABV,100 IBU,4.127
+Smells Like a Safety Meeting,,Dark Horse Brewing Co.,8.5% ABV,48 IBU,3.819
+Dragonfly IPA,,Upland Brewing Company,6.7% ABV,65 IBU,3.593
+High Wire Grapefruit,,Magic Rock Brewing,5.5% ABV,35 IBU,3.571
+Steenbrugge Blond,,Brouwerij Palm,6.5% ABV,23 IBU,3.406
+Bigfoot,,Sierra Nevada Brewing Co.,9.6% ABV,90 IBU,3.645
+Barking Squirrel,,Hop City Brewing Co.,5% ABV,24 IBU,3.478
+The Temptress,,Lakewood Brewing Co.,9.1% ABV,56 IBU,4.051
+Double Dog,,Flying Dog Brewery,12% ABV,85 IBU,3.75
+PC Pils,,Founders Brewing Co.,5.5% ABV,45 IBU,3.622
+El Gose,,Avery Brewing Co.,4.5% ABV,13 IBU,3.484
+Stash IPA,,Independence Brewing Co.,7.5% ABV,94 IBU,3.73
+Pumpkin Patch Ale,,Rogue Ales,6.1% ABV,25 IBU,3.765
+It's Complicated Being a Wizard,,Burlington Beer Company,8% ABV,40 IBU,4.088
+Voll-Damm,,Damm,7.2% ABV,34 IBU,3.202
+The Public,,DC Brau Brewing Company,6% ABV,45 IBU,3.532
+Forever Ever,,Other Half Brewing Co.,4.7% ABV,50 IBU,3.941
+Nitro Red Velvet,,Ballast Point Brewing Company,5.5% ABV,33 IBU,3.536
+DAB Export / Dortmunder Export,,Dortmunder Actien-Brauerei,5% ABV,23 IBU,3.071
+Aurora Hoppyalis IPA,,Karl Strauss Brewing Company,7% ABV,60 IBU,3.868
+Cold Brew IPA,,Rogue Ales,7.5% ABV,82 IBU,3.739
+Great White,,Lost Coast Brewery,4.8% ABV,15 IBU,3.492
+Wicked Hazy,,Samuel Adams,6.8% ABV,35 IBU,3.669
+Jam Up The Mash,,Collective Arts Brewing,5.2% ABV,N/A IBU,3.785
+Vagabond,,BrewDog,4.5% ABV,55 IBU,3.43
+Rickard's Red,,Molson Coors Canada,5.2% ABV,16 IBU,3.234
+100W,,Nya Carnegiebryggeriet,6.8% ABV,N/A IBU,3.54
+Breakside IPA,,Breakside Brewery,6.8% ABV,73 IBU,3.936
+XX Bitter,,Brouwerij De Ranke,6% ABV,60 IBU,3.472
+Stranger Than Fiction,,Collective Arts Brewing,5.5% ABV,25 IBU,3.686
+Lizard of Koz,,Founders Brewing Co.,10.5% ABV,40 IBU,3.828
+Ciney Blonde,,Brouwerij Alken-Maes,7% ABV,24 IBU,3.436
+Supersonic,,LERVIG,8.5% ABV,N/A IBU,4.06
+Dino S'mores,,Off Color Brewing,10.5% ABV,40 IBU,4.01
+Gouden Carolus Cuvée van de Keizer Imperial Dark,,Brouwerij Het Anker,11% ABV,15 IBU,4.055
+Saison,,Allagash Brewing Company,6.1% ABV,N/A IBU,3.643
+Blah Blah Blah IPA,,21st Amendment Brewery,8% ABV,65 IBU,3.796
+Vanilla Bean Stout,,Avery Brewing Co.,10.5% ABV,50 IBU,4.059
+Split Shot,,Elysian Brewing Company,5.6% ABV,28 IBU,3.884
+OverRated,,Surly Brewing Company,7.3% ABV,69 IBU,3.859
+Broken Skull IPA,,El Segundo Brewing Company,6.7% ABV,67 IBU,3.788
+Le Terroir,,New Belgium Brewing Company,7.5% ABV,12 IBU,4.03
+Cristal,,Brouwerij Alken-Maes,5% ABV,28 IBU,3.039
+Atlantic,,Sharp's Brewery,4.2% ABV,26 IBU,3.37
+Tynt Meadow,,Mount Saint Bernard Abbey,7.4% ABV,38 IBU,3.635
+Caramel Fudge Stout,,Brouwerij Kees,11.5% ABV,45 IBU,3.892
+Nanticoke Nectar,,RaR Brewing,7.4% ABV,65 IBU,3.789
+8.6 Original,,Royal Swinkels,8.6% ABV,18 IBU,3.094
+Raspberry Sour,,Avery Brewing Co.,5.8% ABV,N/A IBU,3.998
+Audible Ale,,Redhook Brewery,4.7% ABV,22 IBU,3.333
+Sweet Josie,,Lonerider Brewing Company,6.1% ABV,26 IBU,3.665
+A Little Sumpin' Wild Ale,,Lagunitas Brewing Company,8.8% ABV,72 IBU,3.847
+Lug Tread,,Beau's All Natural Brewing Company,5.2% ABV,21 IBU,3.611
+Double Dry Hopped Fort Point,,Trillium Brewing Company,6.6% ABV,N/A IBU,4.407
+One Claw,,Westbrook Brewing Co.,5.5% ABV,30 IBU,3.759
+Gulden Draak Brewmasters Edition,,Brouwerij Van Steenberge,10.5% ABV,11 IBU,3.84
+Ink & Dagger,,Amundsen Brewery,6.5% ABV,75 IBU,3.696
+Kentucky Pumpkin Barrel Ale,,Lexington Brewing & Distilling Co.,10% ABV,16 IBU,3.739
+Kellerbier,,Hacker-Pschorr,5.5% ABV,15 IBU,3.513
+Honey Dew,,Fuller's Griffin Brewery,5% ABV,18 IBU,3.32
+Saranac Pumpkin Ale,,Saranac Brewery (F.X. Matt Brewing Co.),5.3% ABV,15 IBU,3.437
+Hopus,,Brasserie Lefebvre,8.3% ABV,40 IBU,3.521
+Sosus,,Toppling Goliath Brewing Co.,7.8% ABV,100 IBU,4.259
+Holsten Pilsener,,Holsten-Brauerei AG,4.8% ABV,28 IBU,2.943
+Stone Levitation Amber Ale,,Stone Brewing,4.4% ABV,45 IBU,3.625
+Kozel Premium Lager / Kozel 11,,Pivovar Velké Popovice,4.6% ABV,25 IBU,3.167
+Bishops Finger,,Shepherd Neame,5.2% ABV,N/A IBU,3.328
+Holly Jolly Christmas Ale,,Fat Head's Brewery,7.5% ABV,38 IBU,3.724
+Prohibition Ale,,Speakeasy Ales & Lagers,6.1% ABV,45 IBU,3.543
+Wailua Wheat,,Kona Brewing Hawaii,5.4% ABV,15 IBU,3.515
+Cwtch,,Tiny Rebel Brewing Co,4.6% ABV,50 IBU,3.552
+India Pale Ale,,Nøgne Ø,7.5% ABV,60 IBU,3.708
+8 Days A Week,,Southern Tier Brewing Company,4.8% ABV,15 IBU,3.45
+Lager Beer,,Innis & Gunn,4.6% ABV,21 IBU,3.34
+Zinnebir,,Brasserie de la Senne,5.8% ABV,30 IBU,3.397
+Arthur,,Hill Farmstead Brewery,6% ABV,N/A IBU,4.257
+Oude Gueuze Tilquin à l'Ancienne,,Gueuzerie Tilquin,7% ABV,14 IBU,4.006
+Phantasmagoria,,Prairie Artisan Ales,8% ABV,70 IBU,3.946
+Cusqueña Dorada / Golden Lager,,Unión de Cervecerías Peruanas Backus y Johnston,5% ABV,25 IBU,3.122
+Mangö,,Clown Shoes,5.5% ABV,25 IBU,3.631
+Mosaic Hop,,Brouwerij Kees,5.5% ABV,40 IBU,3.565
+Aktien Zwick'l Kellerbier,,Bayreuther Bierbrauerei,5.3% ABV,18 IBU,3.499
+Angel City IPA,,Angel City Brewery,6.1% ABV,65 IBU,3.572
+Global Warmer,,Sixpoint Brewery,7% ABV,70 IBU,3.764
+Nitro Rübæus,,Founders Brewing Co.,5.7% ABV,15 IBU,3.955
+Holiday Porter,,Samuel Adams,5.8% ABV,40 IBU,3.395
+Apple / Pomme,,Brouwerij Lindemans,3.5% ABV,12 IBU,3.485
+Double Crooked Tree IPA,,Dark Horse Brewing Co.,12% ABV,98 IBU,4.022
+Curmudgeon's Better Half,,Founders Brewing Co.,12.7% ABV,45 IBU,4.122
+Numero Uno Mexican Lager,,Flying Dog Brewery,4.9% ABV,20 IBU,3.469
+Sour Wench Blackberry Ale,,Ballast Point Brewing Company,7% ABV,10 IBU,3.741
+Hopothermia,,Alaskan Brewing Co.,8.5% ABV,70 IBU,3.813
+Birthday Bomb!,,Prairie Artisan Ales,13% ABV,65 IBU,4.284
+Shotgun Betty,,Lonerider Brewing Company,5.8% ABV,12 IBU,3.595
+House Lager,,Jack's Abby Craft Lagers,5.2% ABV,18 IBU,3.562
+Smith & Forge Hard Cider,,Uncharted Cider Company,6% ABV,10 IBU,3.448
+Hopulent IPA,,Epic Brewing Company,8.8% ABV,62 IBU,3.796
+Andechser Doppelbock Dunkel,,Klosterbrauerei Andechs,7.1% ABV,19 IBU,3.694
+Punk'n,,Uinta Brewing Company,5% ABV,10 IBU,3.387
+Sweet Child of Vine,,Fulton Beer,6.4% ABV,69 IBU,3.675
+Double Bastard Ale,,Arrogant Consortia,10.5% ABV,100 IBU,3.897
+Corsendonk Christmas Ale,,Brouwerij Corsendonk,8.1% ABV,23 IBU,3.681
+Copper,,The Olde Mecklenburg Brewery,4.8% ABV,31 IBU,3.569
+Standard,,Prairie Artisan Ales,6% ABV,25 IBU,3.689
+Naranjito,,Brooklyn Brewery,4.5% ABV,35 IBU,3.301
+Weird and Gilly,,SingleCut Beersmiths,6.6% ABV,88 IBU,4.037
+Hitachino Nest Red Rice Ale,,Kiuchi Brewery,7% ABV,17 IBU,3.513
+El Guapo Agave IPA,,O'Connor Brewing Co.,7.5% ABV,70 IBU,3.655
+Berry Weiss,,Jacob Leinenkugel Brewing Company,4.7% ABV,14 IBU,3.328
+Monty Python's Holy Grail Ale,,Black Sheep,4.7% ABV,N/A IBU,3.321
+Wobble IPA,,Two Brothers Brewing Company,6.3% ABV,69 IBU,3.684
+Boneshaker,,Amsterdam Brewing Company,7.1% ABV,80 IBU,3.684
+Smashbomb Atomic IPA,,Flying Monkeys Craft Brewery,6% ABV,72 IBU,3.655
+Achel Dubbel,,De Achelse Kluis,8% ABV,24 IBU,3.678
+Salty Kiss,,Magic Rock Brewing,4.1% ABV,10 IBU,3.392
+Pumpkin Ale,,Whole Hog Brewery,7% ABV,38 IBU,3.997
+Son of a Baptist,,Epic Brewing Company,8% ABV,60 IBU,3.975
+Enter Night Pilsner,,Arrogant Consortia,5.7% ABV,45 IBU,3.437
+Oude Gueuze Cuvée René,,Brouwerij Lindemans,6% ABV,21 IBU,3.734
+F5 IPA,,COOP Ale Works,7.1% ABV,85 IBU,3.775
+Eugene,,Revolution Brewing,6.8% ABV,28 IBU,3.777
+Cucumber Crush,,10 Barrel Brewing Co.,5% ABV,4 IBU,3.786
+Op & Top,,Brouwerij de Molen,4.5% ABV,38 IBU,3.425
+Tiny Bomb,,Wiseacre Brewing Company,4.5% ABV,39 IBU,3.538
+Bronx American Pale Ale,,The Bronx Brewery,6.3% ABV,50 IBU,3.5
+Maple Bacon Coffee Porter,,Funky Buddha Brewery,6.4% ABV,35 IBU,4.271
+Planet Pale Ale,,BrewDog,4.3% ABV,45 IBU,3.429
+Belgian Session,,Samuel Adams,4.3% ABV,16 IBU,3.245
+Indio,,Cervecería Cuauhtémoc Moctezuma S.A. de C.V.,4.1% ABV,N/A IBU,3.11
+Doom,,Founders Brewing Co.,12.4% ABV,100 IBU,4.013
+Zoe,,Maine Beer Company,7.2% ABV,N/A IBU,3.873
+Drunken Sailor,,CREW Republic,6.4% ABV,N/A IBU,3.589
+Floreffe Triple / Tripel,,Brasserie Lefebvre,8% ABV,30 IBU,3.459
+Wee Mac Scottish-Style Ale,,Sun King Brewery,5.3% ABV,23 IBU,3.675
+Chouffe Bok 6666,,Brasserie d'Achouffe,6.66% ABV,19 IBU,3.477
+St. Lupulin,,Odell Brewing Co.,6.5% ABV,46 IBU,3.799
+Leffe d'Été / Zomerbier,,Abbaye de Leffe,5.2% ABV,17 IBU,3.479
+Windows Up,,Alpine Beer Company,7% ABV,70 IBU,3.899
+Leffe Bière d'Hiver / Winterbier,,Abbaye de Leffe,6.6% ABV,19 IBU,3.473
+Rodenbach Caractère Rouge,,Brouwerij Rodenbach,7% ABV,8 IBU,4.154
+Strongbow Gold Apple,,Bulmers Cider,5% ABV,N/A IBU,3.471
+Osiris Pale Ale,,Sun King Brewery,5.6% ABV,50 IBU,3.669
+The Reverend,,Avery Brewing Co.,10% ABV,24 IBU,3.937
+Stone Saison,,Stone Brewing,6% ABV,45 IBU,3.506
+Bullebak,,Brouwerij de Eeuwige Jeugd,7.7% ABV,N/A IBU,3.681
+High West-ified Imperial Coffee Stout,,Lagunitas Brewing Company,12.2% ABV,39 IBU,4.251
+Hansa Spesial IPA,,Hansa Borg Bryggerier,4.7% ABV,50 IBU,3.288
+Fall Hornin',,Anderson Valley Brewing Company,6% ABV,20 IBU,3.51
+Trappist Westvleteren Blond,,Brouwerij De Sint-Sixtusabdij van Westvleteren,5.8% ABV,41 IBU,4.019
+Más Agave Clásica Lime,,Founders Brewing Co.,10% ABV,15 IBU,3.885
+The Fear,,Flying Dog Brewery,9% ABV,45 IBU,3.63
+Früli Strawberry Beer,,Delirium - Huyghe Brewery,4.1% ABV,8 IBU,3.679
+Mooser Liesl Helles,,Arcobräu Gräfliches Brauhaus,5.3% ABV,15 IBU,3.483
+Flannel Friday,,Harpoon Brewery,5.7% ABV,35 IBU,3.581
+Bootjes Bier,,Antwerpse Brouw Compagnie,7% ABV,30 IBU,3.506
+Pale Ale,,Schlafly - The Saint Louis Brewery,4.4% ABV,25 IBU,3.424
+Velvet Hammer,,Peticolas Brewing Company,9% ABV,85 IBU,3.89
+Gold,,Yards Brewing Co.,8% ABV,42 IBU,3.598
+Sunlight Cream Ale,,Sun King Brewery,5.3% ABV,20 IBU,3.532
+Imperial,,Cervecería Costa Rica (Florida Bebidas),4.5% ABV,N/A IBU,3.065
+Maz,,Omnipollo,5.6% ABV,48 IBU,3.77
+Paradise,,Prairie Artisan Ales,13% ABV,N/A IBU,4.207
+Rebel Juiced IPA,,Samuel Adams,6.2% ABV,55 IBU,3.578
+Make America Juicy Again,,Heretic Brewing Company,6.5% ABV,40 IBU,3.839
+Lentebock,,Hertog Jan,7.2% ABV,24 IBU,3.449
+Anna,,Hill Farmstead Brewery,6.4% ABV,N/A IBU,4.253
+OAKED Arrogant Bastard Ale,,Arrogant Consortia,7.2% ABV,N/A IBU,3.893
+Nut Brown Ale,,AleSmith Brewing Company,5% ABV,12 IBU,3.732
+Mad Hatter,,New Holland Brewing,7% ABV,65 IBU,3.727
+Mardi Gras Bock,,Abita Brewing Company,6.5% ABV,25 IBU,3.465
+Caribbean Rum Cask,,Innis & Gunn,6.8% ABV,30 IBU,3.524
+High Wire,,Magic Rock Brewing,5.5% ABV,50 IBU,3.654
+Irish Red,,Samuel Adams,5.8% ABV,25 IBU,3.36
+El Sully,,21st Amendment Brewery,4.8% ABV,19 IBU,3.369
+Jacobus Pale Ale (RPA),,Jopen,5.5% ABV,45 IBU,3.453
+Ayinger Urweisse,,Ayinger Privatbrauerei,5.8% ABV,13 IBU,3.744
+Pale Ale,,Yazoo Brewing Company,5.8% ABV,47 IBU,3.454
+Pumpkin Ale,,Smuttynose Brewing Co.,6.1% ABV,45 IBU,3.323
+India Ale,,Samuel Smith,5% ABV,46 IBU,3.421
+Key West Pale Ale,,Carib Brewery USA,5% ABV,N/A IBU,3.376
+Vuurbaak,,Texelse Bierbrouwerij,5.5% ABV,25 IBU,3.456
+Bommen & Granaten,,Brouwerij de Molen,11% ABV,30 IBU,3.827
+Steam Brew Session IPA,,Privatbrauerei Eichbaum,4.9% ABV,35 IBU,3.088
+Affligem Belgisch Wit,,Affligem Brouwerij,4.8% ABV,N/A IBU,3.466
+Leffe Royale Cascade IPA,,Abbaye de Leffe,7.5% ABV,33 IBU,3.48
+Hell,,Flötzinger Bräu Rosenheim,5.2% ABV,18 IBU,3.485
+Sour Rosé,,Crooked Stave Artisan Beer Project,4.5% ABV,N/A IBU,3.827
+Gnommegang,,Brewery Ommegang,9.5% ABV,26 IBU,3.822
+Petrus Roodbruin (Oud Bruin),,Brouwerij De Brabandere,5.5% ABV,17 IBU,3.431
+Hophead,,Dark Star Brewing Co.,3.8% ABV,50 IBU,3.464
+On The Wings of Armageddon,,DC Brau Brewing Company,9.5% ABV,110 IBU,4.064
+Witte Lambic,,Brouwerij Mort Subite,5.5% ABV,N/A IBU,3.442
+Ace Perry Cider,,Ace Cider (The California Cider Company),5% ABV,N/A IBU,3.692
+Nutcracker Ale,,Boulevard Brewing Co.,7.8% ABV,38 IBU,3.52
+Tower Station IPA,,Mother Road Brewing Company,7.3% ABV,70 IBU,3.881
+Skull Splitter,,Orkney Brewery,8.5% ABV,55 IBU,3.663
+Double Bag,,Long Trail Brewing Company,7.2% ABV,39 IBU,3.563
+Atlantik-Ale,,Störtebeker Braumanufaktur,5.1% ABV,38 IBU,3.492
+Undead Party Crasher,,Clown Shoes,9% ABV,65 IBU,3.966
+Freeride APA,,Alaskan Brewing Co.,5.3% ABV,40 IBU,3.555
+Jack-O Pumpkin Ale,,Samuel Adams,4.4% ABV,8 IBU,3.574
+Not Your Father's Ginger Ale,,Not Your Father’s,5.9% ABV,9 IBU,3.282
+Modus Mandarina,,Ska Brewing,6.8% ABV,65 IBU,3.662
+Strawberry Rhubarb,,Great Divide Brewing Company,6.4% ABV,12 IBU,3.735
+Cold Mountain,,Highland Brewing Company,5.9% ABV,28 IBU,3.927
+Detour,,Muskoka Brewery,4.3% ABV,38 IBU,3.632
+Bean Flicker,,Odd Side Ales,4.5% ABV,21 IBU,3.785
+Allgäuer Büble Bier Edelbräu,,Allgäuer Brauhaus,5.5% ABV,13 IBU,3.352
+Aecht Schlenkerla Eiche – Doppelbock,,"Schlenkerla (""Heller-Bräu"" Trum)",8% ABV,40 IBU,3.715
+Premium Lager,,Creemore Springs,5% ABV,24 IBU,3.462
+Punk IPA Alcohol Free,,BrewDog,0.5% ABV,35 IBU,2.879
+Spooky Tooth Imperial Pumpkin Ale,,Fat Head's Brewery,9% ABV,22 IBU,3.816
+Trappistes Rochefort Triple Extra,,Abbaye Notre-Dame de Saint-Rémy,8.1% ABV,35 IBU,3.762
+Augustijn Blond,,Brouwerij Van Steenberge,7% ABV,21 IBU,3.53
+James Squire One Fifty Lashes,,Malt Shovel Brewery,4.2% ABV,19 IBU,3.388
+Chiemseer Hell,,Auerbräu Rosenheimer Spezialitätenbrauerei,4.8% ABV,12 IBU,3.502
+Original,,Bulmers Cider,4.5% ABV,N/A IBU,3.311
+Pelforth Blonde,,Heineken France,5.8% ABV,N/A IBU,2.939
+Dark Arts,,Magic Rock Brewing,6% ABV,N/A IBU,3.641
+Citrus IPA,,Funk Brewing,6.7% ABV,70 IBU,3.841
+Sidekick,,Two Brothers Brewing Company,5.1% ABV,36 IBU,3.603
+Piranha® Pale Ale,,BJ's Restaurant & Brewhouse,5.7% ABV,40 IBU,3.483
+Maisel & Friends Pale Ale,,Brauerei Gebr. Maisel,5.2% ABV,32 IBU,3.56
+Lonely Blonde,,Fulton Beer,4.8% ABV,29 IBU,3.512
+Chronic Amber Ale,,Pizza Port Brewing Company,4.9% ABV,33 IBU,3.57
+Mountain Ale,,The Shed Brewery,7.4% ABV,35 IBU,3.62
+Original Cider,,Crispin Cider Company,5% ABV,N/A IBU,3.474
+Bifrost Winter Ale,,Elysian Brewing Company,8.3% ABV,58 IBU,3.569
+Raja,,Avery Brewing Co.,8% ABV,70 IBU,3.906
+Ananda,,Wiseacre Brewing Company,6.2% ABV,75 IBU,3.652
+Goudenband,,Brouwerij Liefmans,8% ABV,8 IBU,3.693
+Double Daisy Cutter,,Half Acre Beer Company,8.2% ABV,N/A IBU,4.086
+Oro de Calabaza,,Jolly Pumpkin Artisan Ales,8% ABV,30 IBU,3.798
+Budweiser Black Crown,,Anheuser-Busch,6% ABV,15 IBU,2.714
+Toasted Oak IPA,,Innis & Gunn,5.6% ABV,N/A IBU,3.393
+The Great Pumpkin,,Elysian Brewing Company,8% ABV,N/A IBU,3.889
+American Dream,,Mikkeller,4.6% ABV,N/A IBU,3.553
+Axis IPA,,Real Ale Brewing Company,7% ABV,70 IBU,3.723
+Blood of the Unicorn,,Pipeworks Brewing Company,6.5% ABV,69 IBU,3.837
+Equinox,,Lagunitas Brewing Company,8% ABV,50 IBU,3.854
+House Party,,LERVIG,4% ABV,27 IBU,3.508
+Old Empire IPA,,Marston's Brewery,5.7% ABV,35 IBU,3.282
+Brrr Seasonal Ale,,Widmer Brothers Brewing,7.2% ABV,50 IBU,3.428
+Napoleon Complex,,Wicked Weed Brewing,5.2% ABV,47 IBU,3.786
+Tokyo,,Brouwerij St.Bernardus,6% ABV,15 IBU,3.473
+Leffe Radieuse,,Abbaye de Leffe,8.2% ABV,25 IBU,3.535
+Traditional Dry,,Angry Orchard Cider Company,5.5% ABV,N/A IBU,3.48
+Joker IPA,,Williams Brothers Brewing Co.,5% ABV,30 IBU,3.493
+Dos Perros,,Yazoo Brewing Company,4.9% ABV,16 IBU,3.525
+Hefeweizen,,Pyramid Brewing Co.,5.2% ABV,18 IBU,3.431
+Escape Route,,Samuel Adams,5% ABV,30 IBU,3.355
+Bornem Tripel,,Brouwerij Van Steenberge,9% ABV,25 IBU,3.467
+Leffe Royale,,Abbaye de Leffe,7.5% ABV,N/A IBU,3.693
+Saranac Pale Ale,,Saranac Brewery (F.X. Matt Brewing Co.),5.5% ABV,32 IBU,3.322
+Autumn Maple,,The Bruery,10% ABV,15 IBU,3.686
+House of Pale,,To Øl,5.5% ABV,37 IBU,3.634
+Road Warrior,,Green Flash Brewing Company,9% ABV,80 IBU,3.855
+Mango Mosaic,,Breckenridge Brewery,5.5% ABV,29 IBU,3.56
+Guava Gose,,Collective Arts Brewing,4.9% ABV,12 IBU,3.752
+Chieftain,,Franciscan Well Brewery,5.5% ABV,50 IBU,3.547
+Kölsch,,Alaskan Brewing Co.,5.3% ABV,18 IBU,3.505
+Decadent Dark Chocolate Ale,,Atwater Brewery,5% ABV,11 IBU,3.834
+Duckpin Pale Ale,,Union Craft Brewing,5.5% ABV,55 IBU,3.624
+Smithwick’s Pale Ale,,Guinness,4.5% ABV,N/A IBU,3.34
+Grey Lady Wheat Ale,,Cisco Brewers,4% ABV,7 IBU,3.454
+Toaster Pastry,,21st Amendment Brewery,7.6% ABV,74 IBU,3.738
+Cloudy & Cumbersome,,Levante Brewing Company,5.9% ABV,19 IBU,3.86
+Classic Gueuze,,Brasserie Cantillon,5% ABV,N/A IBU,4.266
+Sticky Hands,,Block 15 Brewing Company,8.1% ABV,110 IBU,4.146
