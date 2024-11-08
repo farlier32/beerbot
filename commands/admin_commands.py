@@ -197,3 +197,13 @@ async def add_place_beer_names(message: types.Message, state: FSMContext):
     else:
         # Добавьте введенное пользователем название пива в список
         await state.update_data(beer_names=message.text.split(", "))
+
+# @router.message(Command("dbupdate"))
+# async def database_update(message: types.Message, state: FSMContext):
+#     user_id = message.from_user.id
+#     has_permission = check_permissions(user_id, 2)
+
+#     if not has_permission:
+#         await message.answer("Извините, но у вас не хватает прав.")
+#         return
+#     else:
