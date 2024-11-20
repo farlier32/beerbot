@@ -179,7 +179,7 @@ async def add_place_beer_names(message: types.Message, state: FSMContext):
         place_name = data.get("place_name")
         beer_names = data.get("beer_names", [])
         
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
         beer_ids = [beer['id'] for beer in beer_list if beer['name'] in beer_names]
 
         place_info = {"beers": beer_ids}

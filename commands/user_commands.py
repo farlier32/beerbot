@@ -8,6 +8,7 @@ from aiogram.types.callback_query import CallbackQuery
 from utils.searcher import search_by_beer, search_by_breweries
 import json
 from utils.votes import update_vote_results
+from db.database import AsyncSessionLocal
 from utils.db_loader import load_beer_list
 import keyboards.reply as kb
 import utils.messages as text
@@ -134,7 +135,7 @@ async def place_callback_handler(cq: CallbackQuery):
         place_name = cq.data.split("_")[1]
 
         # Загрузка списка пива
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
 
         # Загрузка данных о местах из places.json
         with open('data/places.json', 'r', encoding='utf8') as f:
@@ -160,7 +161,7 @@ async def beer_callback_handler(cq: CallbackQuery):
         beer_id = int(cq.data.split("_")[1])
 
         # Найдите пиво в списке пива
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
         selected_beer = next((beer for beer in beer_list if beer['id'] == beer_id), None)
         
         if selected_beer is None:
@@ -235,7 +236,7 @@ async def user_rating_handler(message: types.Message):
             liked_beers_ids = [int(beer_id) for beer_id, vote in user_votes.items() if vote == "like"]
             disliked_beers_ids = [int(beer_id) for beer_id, vote in user_votes.items() if vote == "dislike"]
 
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
         liked_beers = [beer for beer in beer_list if beer['id'] in liked_beers_ids]
         disliked_beers = [beer for beer in beer_list if beer['id'] in disliked_beers_ids]
 
@@ -384,7 +385,7 @@ async def item_callback_handler(cq: CallbackQuery):
         beer_id = int(cq.data.split("_")[1])
         
         # Найдите пиво в списке пива
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
         selected_beer = next((beer for beer in beer_list if beer['id'] == beer_id), None)
         
         if selected_beer is None:
@@ -418,7 +419,7 @@ async def page_callback_handler(cq: CallbackQuery):
             liked_beers_ids = [int(beer_id) for beer_id, vote in user_votes.items() if vote == "like"]
             disliked_beers_ids = [int(beer_id) for beer_id, vote in user_votes.items() if vote == "dislike"]
 
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
         liked_beers = [beer for beer in beer_list if beer['id'] in liked_beers_ids]
         disliked_beers = [beer for beer in beer_list if beer['id'] in disliked_beers_ids]
 
@@ -483,7 +484,7 @@ async def like_callback_handler(cq: CallbackQuery):
         user_id = cq.from_user.id
 
         # Найдите пиво в списке пива
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
         selected_beer = next((beer for beer in beer_list if beer['id'] == beer_id), None)
         
         if selected_beer is None:
@@ -507,7 +508,7 @@ async def dislike_callback_handler(cq: CallbackQuery):
         user_id = cq.from_user.id
 
         # Найдите пиво в списке пива
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
         selected_beer = next((beer for beer in beer_list if beer['id'] == beer_id), None)
         
         if selected_beer is None:

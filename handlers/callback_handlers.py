@@ -6,7 +6,7 @@ from utils.votes import update_vote_results
 async def handle_beer_selection(cq: CallbackQuery, beer_id: int):
     try:
         # Найдите пиво в списке пива
-        beer_list = load_beer_list()
+        beer_list = await load_beer_list()
         selected_beer = next((beer for beer in beer_list if beer['id'] == beer_id), None)
         
         if selected_beer is None:
@@ -30,7 +30,7 @@ async def update_vote_and_respond(cq: CallbackQuery, beer_id: int, vote: str):
     user_id = cq.from_user.id
 
     # Найдите пиво в списке пива
-    beer_list = load_beer_list()
+    beer_list = await load_beer_list()
     selected_beer = next((beer for beer in beer_list if beer['id'] == beer_id), None)
     
     if selected_beer is None:
