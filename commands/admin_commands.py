@@ -1,12 +1,19 @@
 from aiogram import types, F, Router
-from utils.db_loader import load_beer_list
-from aiogram.types import Message
 from aiogram.filters.state import State, StatesGroup
 from utils.permissions import check_permissions
 from aiogram.filters import Command
 from keyboards.reply import admin_menu
 from aiogram.fsm.context import FSMContext
-import json
+
+from sqlalchemy.future import select
+from db.database import AsyncSessionLocal
+from db.models import *
+
+
+
+
+
+
 router = Router()
 
 class AdminState(StatesGroup):
@@ -21,7 +28,7 @@ class AdminState(StatesGroup):
 async def admin_commands(message: types.Message):
     try:
         user_id = message.from_user.id
-        has_permission = check_permissions(user_id, 1)
+        has_permission = await check_permissions(user_id, 1)
 
         if not has_permission:
             await message.answer("Извините, но у вас не хватает прав.")
@@ -35,7 +42,7 @@ async def admin_commands(message: types.Message):
 async def add_beer_place_handler(message: types.Message):
     try:
         user_id = message.from_user.id
-        has_permission = check_permissions(user_id, 1)
+        has_permission = await check_permissions(user_id, 1)
 
         if not has_permission:
             await message.answer("Извините, но у вас не хватает прав.")
@@ -52,7 +59,7 @@ async def add_beer_place_handler(message: types.Message):
 async def user_info_start(message: types.Message, state: FSMContext):
     # Проверка разрешений, как в команде admin
     user_id = message.from_user.id
-    has_permission = check_permissions(user_id, 1)
+    has_permission = await check_permissions(user_id, 1)
 
     if not has_permission:
         await message.answer("Извините, но у вас не хватает прав.")
@@ -66,86 +73,95 @@ async def user_info_start(message: types.Message, state: FSMContext):
 async def user_info(message: types.Message, state: FSMContext):
     username = message.text.lstrip('@')
 
-    # Загрузка данных пользователя из users.json
-    with open('data/users.json', 'r', encoding='utf8') as f:
-        user_data = json.load(f)
-        user_info = next((user for user in user_data['users'] if user['nick'] == username), None)
+    # Работаем с базой данных
+    async with AsyncSessionLocal() as session:
+        # Получаем пользователя по никнейму
+        result = await session.execute(select(User).where(User.nickname == username))
+        user_info = result.scalars().first()
 
-    if user_info is None:
-        await message.answer("Пользователь не найден.")
-        return
+        if user_info is None:
+            await message.answer("Пользователь не найден.")
+            return
 
-    # Загрузка данных оценок из votes.json
-    with open('data/votes.json', 'r', encoding='utf8') as f:
-        vote_data = json.load(f)
-        user_votes = vote_data.get(str(user_info['id']), {})
-        liked_beers_ids = [int(beer_id) for beer_id, vote in user_votes.items() if vote == "like"]
-        disliked_beers_ids = [int(beer_id) for beer_id, vote in user_votes.items() if vote == "dislike"]
+        # Получаем все оценки пользователя
+        result = await session.execute(select(Rating).where(Rating.user_id == user_info.user_id))
+        user_votes = result.scalars().all()
 
+    # Формируем информацию о пользователе
     info = f"""
-    ID: {user_info['id']}
-    Ник: {user_info['nick']}
-    Имя: {user_info['name']}
-    Фамилия: {user_info['last_name']}
-    Права доступа: {user_info['permissions']}
-    Количество лайкнутых пив: {len(liked_beers_ids)}
-    Количество дизлайкнутых пив: {len(disliked_beers_ids)}
+    ID: {user_info.user_id}
+    Ник: {user_info.nickname}
+    Имя: {user_info.first_name}
+    Фамилия: {user_info.last_name}
+    Права доступа: {user_info.permissions}
+    Количество оценок: {len(user_votes)}
     """
 
     await message.answer(info)
     await state.clear()
 
+
 @router.message(Command("change_permission"))
 async def change_permission_start(message: types.Message, state: FSMContext):
     user_id = message.from_user.id
-    has_permission = check_permissions(user_id, 2)
+    # Проверяем, есть ли у пользователя права для выполнения этой команды
+    has_permission = await check_permissions(user_id, 2)
 
     if not has_permission:
         await message.answer("Извините, но у вас не хватает прав.")
         return
 
+    # Запрашиваем никнейм пользователя, чьи права нужно изменить
     await message.answer("Введите никнейм пользователя:")
     await state.set_state(AdminState.WaitingForUsernamePermission.state)
 
+
 @router.message(AdminState.WaitingForUsernamePermission)
 async def change_permission_username(message: types.Message, state: FSMContext):
-    nick = message.text.lstrip('@')
-    await state.update_data(nick=nick)
-    await message.answer("Введите новое разрешение для пользователя:\n0 - Default,\n1 - Moderator,\n2 - Administration,\n228 - GROMOZEKA BANNED")
+    # Извлекаем никнейм пользователя
+    nickname = message.text.lstrip('@')
+    await state.update_data(nickname=nickname)
+
+    # Запрашиваем новое разрешение для пользователя
+    await message.answer(
+        "Введите новое разрешение для пользователя:\n0 - Default,\n1 - Moderator,\n2 - Administration,\n228 - GROMOZEKA BANNED")
     await state.set_state(AdminState.WaitingForPermission.state)
 
 
 immutable_users = [1021919114]
 @router.message(AdminState.WaitingForPermission)
 async def change_permission_finish(message: types.Message, state: FSMContext):
-    new_permission = int(message.text)
+    try:
+        new_permission = int(message.text)
+    except ValueError:
+        await message.answer("Пожалуйста, введите числовое значение для прав доступа.")
+        return
+
     user_data = await state.get_data()
-    nick = user_data['nick']
+    nickname = user_data.get('nickname')
 
-    # Загрузка данных пользователя из users.json
-    with open('data/users.json', 'r', encoding='utf8') as f:
-        users = json.load(f)
-        user_info = next((user for user in users['users'] if user.get('nick') == nick), None)
+    # Работаем с базой данных
+    async with AsyncSessionLocal() as session:
+        # Выполняем запрос на получение пользователя с данным никнеймом
+        result = await session.execute(select(User).where(User.nickname == nickname))
+        user_info = result.scalars().first()
 
-    if user_info is None:
-        await message.answer("Пользователь не найден.")
-        await state.clear()
-        return
+        if user_info is None:
+            await message.answer("Пользователь не найден.")
+            await state.clear()
+            return
 
-    # Проверка, является ли пользователь неизменяемым
-    if user_info['id'] in immutable_users:
-        await message.answer("Извините, но разрешения этого пользователя не могут быть изменены.")
-        await state.clear()
-        return
+        # Проверка, является ли пользователь неизменяемым
+        if user_info.user_id in immutable_users:
+            await message.answer("Извините, но разрешения этого пользователя не могут быть изменены.")
+            await state.clear()
+            return
 
-    # Изменение разрешения пользователя
-    user_info['permissions'] = new_permission
+        # Обновляем права пользователя
+        user_info.permissions = new_permission
+        await session.commit()
 
-    # Сохранение обновленных данных пользователя в users.json
-    with open('data/users.json', 'w', encoding='utf8') as f:
-        json.dump(users, f, ensure_ascii=False, indent=2)
-
-    await message.answer(f"Разрешение для пользователя {nick} успешно изменено на {new_permission}.")
+    await message.answer(f"Права доступа пользователя {nickname} успешно изменены на {new_permission}.")
     await state.clear()
 
 
@@ -153,10 +169,11 @@ class AddPlaceState(StatesGroup):
     WaitingForPlaceName = State()
     WaitingForBeerNames = State()
 
+
 @router.message(F.text.lower() == "добавить место")
 async def add_place_start(message: types.Message, state: FSMContext):
     user_id = message.from_user.id
-    has_permission = check_permissions(user_id, 2)
+    has_permission = await check_permissions(user_id, 2)
 
     if not has_permission:
         await message.answer("Извините, но у вас не хватает прав.")
@@ -165,6 +182,8 @@ async def add_place_start(message: types.Message, state: FSMContext):
     await message.answer("Введите название места:")
     await state.set_state(AddPlaceState.WaitingForPlaceName.state)
 
+
+# Добавление названия места
 @router.message(F.text, AddPlaceState.WaitingForPlaceName)
 async def add_place_name(message: types.Message, state: FSMContext):
     place_name = message.text
@@ -172,31 +191,44 @@ async def add_place_name(message: types.Message, state: FSMContext):
     await message.answer("Введите названия пив, которые сейчас в продаже. Когда закончите, введите /create_place.")
     await state.set_state(AddPlaceState.WaitingForBeerNames.state)
 
+
+# Добавление пив в место и сохранение в базе данных
 @router.message(F.text, AddPlaceState.WaitingForBeerNames)
 async def add_place_beer_names(message: types.Message, state: FSMContext):
     if message.text == "/create_place":
         data = await state.get_data()
         place_name = data.get("place_name")
         beer_names = data.get("beer_names", [])
-        
-        beer_list = await load_beer_list()
-        beer_ids = [beer['id'] for beer in beer_list if beer['name'] in beer_names]
 
-        place_info = {"beers": beer_ids}
+        # Получаем список пива из базы данных
+        async with AsyncSessionLocal() as session:
+            beer_list = await session.execute(select(Beer).filter(Beer.name.in_(beer_names)))
+            beers = beer_list.scalars().all()
+            beer_ids = [beer.beer_id for beer in beers]
 
-        with open('data/places.json', 'r', encoding='utf8') as f:
-            places = json.load(f)
+            if not beer_ids:
+                await message.answer("Не найдено пива с указанными названиями.")
+                await state.clear()
+                return
 
-        places[place_name] = place_info
+            # Создание нового места в базе данных
+            new_place = Place(place_name=place_name)
+            session.add(new_place)
+            await session.commit()
 
-        with open('data/places.json', 'w', encoding='utf8') as f:
-            json.dump(places, f, ensure_ascii=False, indent=2)
+            # Добавление связи между местом и пивом в таблицу place_beers
+            for beer_id in beer_ids:
+                place_beer = PlaceBeer(place_id=new_place.place_id, beer_id=beer_id)
+                session.add(place_beer)
+
+            await session.commit()
 
         await message.answer(f"Место {place_name} успешно добавлено.")
         await state.clear()
     else:
-        # Добавьте введенное пользователем название пива в список
-        await state.update_data(beer_names=message.text.split(", "))
+        # Добавляем введенные названия пива в список
+        beer_names = message.text.split(", ")
+        await state.update_data(beer_names=beer_names)
 
 # @router.message(Command("dbupdate"))
 # async def database_update(message: types.Message, state: FSMContext):

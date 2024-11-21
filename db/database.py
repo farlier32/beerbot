@@ -1,10 +1,14 @@
+import os
+from dotenv import load_dotenv
+
 from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 
-DATABASE_URL = "postgresql+asyncpg://postgres:159753258456qqW@localhost:5432/beer_recognition"
+load_dotenv()
+DATABASE_URL = os.getenv('DB_URL')
 
 # Создаем асинхронный движок
-engine = create_async_engine(DATABASE_URL, echo=True)
+engine = create_async_engine(DATABASE_URL, echo=True, isolation_level="AUTOCOMMIT")
 
 # Настраиваем асинхронные сессии
 AsyncSessionLocal = sessionmaker(
