@@ -501,7 +501,8 @@ async def get_search_results_beer(message: types.Message, state: FSMContext):
             await message.answer(error)
             return
 
-        await message.answer("Результаты поиска:", reply_markup=markup)
+        page_amount = (len(search_results) + 10 - 1) // 10
+        await message.answer(f"Всего найдено: {len(search_results)}\nСтраница: {page}/{page_amount}", reply_markup=markup)
     except Exception as e:
         await message.answer(f"Произошла ошибка: {e}")
 
@@ -548,8 +549,11 @@ async def search_results_callback_handler(cq: CallbackQuery, state: FSMContext):
             await cq.answer(error)
             return
 
-        # Обновляем сообщение
-        await cq.message.edit_text("Результаты поиска:", reply_markup=markup)
+        data = await state.get_data()
+        search_results = data.get("search_results", [])
+        page_amount = (len(search_results) + 10 - 1) // 10
+                                                                # Обновляем сообщение
+        await cq.message.edit_text(f"Всего найдено: {len(search_results)}\nСтраница: {page}/{page_amount}", reply_markup=markup)
     except Exception as e:
         await cq.answer(f"Произошла ошибка: {e}")
 

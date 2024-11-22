@@ -3,7 +3,6 @@
 import requests
 from bs4 import BeautifulSoup
 import os
-import sys
 import time
 
 def load_links(file_path):
@@ -31,12 +30,12 @@ def get_page_content(url):
 
 def parse_brewery_links():
     base_url = 'https://your.beer/breweries'
-    file_path = 'beer info scrappers/your.beer/temp/breweries_links.txt'
+    file_path = r"C:\Users\Administrator\PycharmProjects\beerbot\beer info scrappers\your.beer\temp\breweries_links.txt"
     page_counter = 1
 
     while True:
         url = f"{base_url}/?page={page_counter}\r"
-        print(f"Сбор по ссылке: {page_counter}: {url}\r")
+        print(f"\rСбор по ссылке: {page_counter}: {url}", end='')
         html_content = get_page_content(url)
         soup = BeautifulSoup(html_content, 'html.parser')
 

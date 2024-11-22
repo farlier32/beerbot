@@ -24,10 +24,6 @@ def fetch_page(url):
     response.raise_for_status()
     return response.text
 
-def print_progress(message):
-    sys.stdout.write('\r' + message)
-    sys.stdout.flush()
-
 def parse_beer_links(breweries_links_path, beer_links_path):
     links = load_links(breweries_links_path)
     existing_links = set(load_links(beer_links_path))
@@ -57,7 +53,7 @@ def parse_beer_links(breweries_links_path, beer_links_path):
                 save_links(beer_links_path, new_links)
                 existing_links.update(new_links)
             
-            print_progress(f"Загружена страница {page_number} для {burl}")
+            print(f"\rЗагружена страница {page_number} для {burl}", end='')
             page_number += 1
 
     print()  # Печатает новую строку после завершения

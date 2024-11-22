@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, Date, ForeignKey, SmallInteger
+from sqlalchemy import Column, Integer, String, Float, Date, ForeignKey, SmallInteger, Text, TIMESTAMP
 from db.database import Base
 from sqlalchemy.orm import relationship
 
@@ -15,6 +15,9 @@ class Beer(Base):
     hops = Column(String(255))
     malts = Column(String(255))
     additives = Column(String(255))
+    beer_links = Column(Text, unique=True)
+    update_time = Column(TIMESTAMP)
+    og = Column(Float)
 
     # Связь с Place через place_beers
     places = relationship("PlaceBeer", back_populates="beer")

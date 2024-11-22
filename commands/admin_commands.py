@@ -1,5 +1,7 @@
 from aiogram import types, F, Router
 from aiogram.filters.state import State, StatesGroup
+from bot_instance import bot
+
 from utils.permissions import check_permissions
 from aiogram.filters import Command
 from keyboards.reply import admin_menu
@@ -112,7 +114,7 @@ async def change_permission_start(message: types.Message, state: FSMContext):
         return
 
     # Запрашиваем никнейм пользователя, чьи права нужно изменить
-    await message.answer("Введите никнейм пользователя:")
+    await message.answer("Введите никнейм/id пользователя:")
     await state.set_state(AdminState.WaitingForUsernamePermission.state)
 
 
@@ -139,12 +141,20 @@ async def change_permission_finish(message: types.Message, state: FSMContext):
 
     user_data = await state.get_data()
     nickname = user_data.get('nickname')
-
+    print(nickname)
     # Работаем с базой данных
     async with AsyncSessionLocal() as session:
         # Выполняем запрос на получение пользователя с данным никнеймом
         result = await session.execute(select(User).where(User.nickname == nickname))
         user_info = result.scalars().first()
+
+        if user_info is None:
+            try:
+                user_id = int(nickname)
+                result = await session.execute(select(User).where(User.user_id == user_id))
+                user_info = result.scalars().first()
+            except:
+                pass
 
         if user_info is None:
             await message.answer("Пользователь не найден.")
@@ -162,8 +172,24 @@ async def change_permission_finish(message: types.Message, state: FSMContext):
         await session.commit()
 
     await message.answer(f"Права доступа пользователя {nickname} успешно изменены на {new_permission}.")
+    permission = {
+        0: 'Default',
+        1: 'Moderator',
+        2: 'Administrator',
+        228: 'GROMOZEKA BANNED'
+    }
+    if new_permission != 228:
+        await bot.send_message(chat_id=user_info.user_id, text=f'Ваши права изменены на {permission[new_permission]}')
+    else:
+        await send_message_and_sticker(user_info.user_id, f'{permission[new_permission]}', 'CAACAgIAAxkBAAENMARnP03O2jt0QZBU9WeUhl1XowHeWgACrRMAAsLYGEsyqpEaMgvvgTYE')
     await state.clear()
 
+async def send_message_and_sticker(chat_id: int, message_text: str, sticker_id: str):
+    try:
+        await bot.send_message(chat_id=chat_id, text=message_text)
+        await bot.send_sticker(chat_id=chat_id, sticker=sticker_id)
+    except Exception as e:
+        print(f'Не удалось отправить сообщение или стикер: {e}')
 
 class AddPlaceState(StatesGroup):
     WaitingForPlaceName = State()
