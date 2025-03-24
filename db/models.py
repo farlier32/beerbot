@@ -56,3 +56,11 @@ class Place(Base):
 
     # Связь с Beer через place_beers
     beers_in_place = relationship("PlaceBeer", back_populates="place")
+
+
+class ParsedLinks(Base):
+    __tablename__ = "parsed_links"
+
+    id = Column(Integer, primary_key=True, index=True)
+    brewery_links = Column(String, unique=True, nullable=False)
+    beer_links = Column(String, unique=True, nullable=False)

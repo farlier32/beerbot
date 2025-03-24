@@ -1,5 +1,6 @@
 from aiogram import types, F, Router
 from aiogram.filters.state import State, StatesGroup
+from aiogram.filters.state import StateFilter
 from bot_instance import bot
 
 from utils.permissions import check_permissions
@@ -10,8 +11,11 @@ from aiogram.fsm.context import FSMContext
 from sqlalchemy.future import select
 from db.database import AsyncSessionLocal
 from db.models import *
-
-
+from parser.yourbeer_parser import data_base_update
+from multiprocessing import Process
+import asyncio
+import datetime
+import os
 
 
 
@@ -35,7 +39,7 @@ async def admin_commands(message: types.Message):
         if not has_permission:
             await message.answer("Извините, но у вас не хватает прав.")
             return
-        await message.answer('Команды:\n/userinfo - Получить данные о пользователе по @nick.\n/change_permission - Назначение ролей.')
+        await message.answer('Команды:\n/userinfo - Получить данные о пользователе по @nick.\n/change_permission - Назначение ролей.\n/dbupdate - Обновление базы данных. (Раз в 5 часов)')
     except Exception as e:
         await message.answer(f"Произошла ошибка: {e}")
 
@@ -256,12 +260,61 @@ async def add_place_beer_names(message: types.Message, state: FSMContext):
         beer_names = message.text.split(", ")
         await state.update_data(beer_names=beer_names)
 
-# @router.message(Command("dbupdate"))
-# async def database_update(message: types.Message, state: FSMContext):
-#     user_id = message.from_user.id
-#     has_permission = check_permissions(user_id, 2)
 
-#     if not has_permission:
-#         await message.answer("Извините, но у вас не хватает прав.")
-#         return
-#     else:
+class ParsingState(StatesGroup):
+    StartParsing = State()
+    SelectMode = State()
+
+
+beer_links = r"C:\Users\Administrator\PycharmProjects\beerbot\parser\temp\beer_links.txt"
+breweries_links = r"C:\Users\Administrator\PycharmProjects\beerbot\parser\temp\breweries_links.txt"
+
+
+@router.message(Command("dbupdate"))
+async def start_update(message: types.Message, state: FSMContext):
+    last_update_time = read_last_update_timestamp()
+    current_time = datetime.datetime.now()
+
+    if last_update_time and (current_time - last_update_time) < datetime.timedelta(hours=5):
+        await message.answer("Извините, но эту команду можно вызывать не чаще, чем раз в 5 часов.")
+        return
+    user_id = message.from_user.id
+    has_permission = await check_permissions(user_id, 2)
+
+    if not has_permission:
+        await message.answer("Извините, но у вас не хватает прав.")
+        return
+    else:
+        await state.set_state(ParsingState.StartParsing.state)
+        await message.answer('Выберите способ парсинга: all, info, brewery, beer')
+
+
+def start_parsing_process(parser_mode, breweries_links, beer_links):
+
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    loop.run_until_complete(data_base_update(breweries_links, beer_links, parser_mode))
+
+@router.message(StateFilter(ParsingState.StartParsing), F.text.lower().in_(["all", "info", "brewery", "beer"]))
+async def select_mode(message: types.Message, state: FSMContext):
+    parser_mode = message.text.lower()
+    await message.answer(f'Начинается парсинг по {parser_mode}')
+
+    p = Process(target=start_parsing_process, args=(parser_mode, breweries_links, beer_links))
+    p.start()
+    await state.clear()
+
+
+TIMESTAMP_FILE = os.getenv('TIMESTAMP_FILE')
+
+def read_last_update_timestamp():
+    if os.path.exists(TIMESTAMP_FILE):
+        with open(TIMESTAMP_FILE, 'r') as file:
+            timestamp = file.read().strip()
+            return datetime.datetime.fromisoformat(timestamp)
+    return None
+
+def write_last_update_timestamp():
+    with open(TIMESTAMP_FILE, 'w') as file:
+        timestamp = datetime.datetime.now().isoformat()
+        file.write(timestamp)

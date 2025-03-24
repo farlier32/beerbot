@@ -4,25 +4,10 @@ from bs4 import BeautifulSoup as BS
 from datetime import datetime
 from sqlalchemy.future import select
 from db.database import AsyncSessionLocal, Base
-from sqlalchemy import Column, Integer, String, Float, Date, Text, TIMESTAMP
+from db.models import Beer
+from colorama import Fore, Style, init
 
-class Beer(Base):
-    __tablename__ = "beers"
-    beer_id = Column(Integer, primary_key=True, index=True)
-    name = Column(String(1000), nullable=False)
-    brewery = Column(String(1000))
-    style = Column(String(255))
-    alcohol = Column(Float)
-    release_date = Column(Date)
-    rating = Column(Float)
-    ibu = Column(Integer)
-    hops = Column(String(255))
-    malts = Column(String(255))
-    additives = Column(String(255))
-    beer_links = Column(Text, unique=True)
-    update_time = Column(TIMESTAMP)
-    og = Column(Float)
-
+init()
 
 async def parse_beer_info(input_path):
     count = 0
@@ -35,7 +20,9 @@ async def parse_beer_info(input_path):
 
     async def load_existing_links(session):
         result = await session.execute(select(Beer.beer_links))
-        return [row[0] for row in result.scalars().all()]
+        return result.scalars().all()
+
+
 
     def space_cleaner(data):
         for item in data:
@@ -76,6 +63,7 @@ async def parse_beer_info(input_path):
     async with AsyncSessionLocal() as session:
         existing_links = await load_existing_links(session)
 
+
         new_links = [link for link in links if link not in existing_links]
 
         for link in new_links:
@@ -100,7 +88,9 @@ async def parse_beer_info(input_path):
                     beer_info_temp['Пиво'] = title
                     beer_info_temp['Ссылка'] = link  # Add the link to the dictionary
                     beer_info_total.append(beer_info_temp)
-                print(f'Страниц с данными обработано - {count}', end='\r')
+                print(Style.RESET_ALL + '\r', end='')
+                print(Fore.RED +f'Страниц с данными обработано - {count}', end='\r')
+                print(Style.RESET_ALL + '\r', end='')
             except Exception as e:
                 print(f'Ошибка: {e}')
 
@@ -113,7 +103,6 @@ async def parse_beer_info(input_path):
         # Final insert after all iterations
         if beer_info_total:
             beer_info_total = space_cleaner(beer_info_total)  # Clean spaces
-            print(beer_info_total)
             await insert_data(session, beer_info_total)
 
     print('Парсинг окончен')

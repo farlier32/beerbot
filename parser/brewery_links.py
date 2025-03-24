@@ -1,9 +1,10 @@
-# pylint: disable=import-error
-
 import requests
 from bs4 import BeautifulSoup
 import os
 import time
+from colorama import Fore, Style, init
+
+init()
 
 def load_links(file_path):
     if os.path.exists(file_path):
@@ -28,14 +29,12 @@ def get_page_content(url):
     response.raise_for_status()
     return response.text
 
-def parse_brewery_links():
+def parse_brewery_links(file_path):
     base_url = 'https://your.beer/breweries'
-    file_path = r"C:\Users\Administrator\PycharmProjects\beerbot\beer info scrappers\your.beer\temp\breweries_links.txt"
     page_counter = 1
 
     while True:
         url = f"{base_url}/?page={page_counter}\r"
-        print(f"\rСбор по ссылке: {page_counter}: {url}", end='')
         html_content = get_page_content(url)
         soup = BeautifulSoup(html_content, 'html.parser')
 
@@ -52,7 +51,10 @@ def parse_brewery_links():
                 links.append(link_tag['href'])
 
         save_links(file_path, links)
-        print(f"Сохранено {len(links)} ссылок с страницы {page_counter}.\r")
+        print(Style.RESET_ALL + '\r', end='')
+        print(Fore.RED + f"\rСохранено {len(links)} ссылок с страницы №{page_counter}", end='')
+        print(Style.RESET_ALL + '\r', end='')
 
         page_counter += 1
         time.sleep(1)  # Небольшая пауза между запросами
+

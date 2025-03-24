@@ -17,16 +17,16 @@ driver = webdriver.Edge(options=options)
 count = 0
 try:
     driver.get(url='https://untappd.com/')
-    for cookie in pickle.load(open('beer info scrappers/untappd_cookies', 'rb')):
+    for cookie in pickle.load(open(r'C:\Users\Administrator\PycharmProjects\beerbot\beer info scrappers\untappd\untappd_cookies.pkl', 'rb')):
         driver.add_cookie(cookie)
-    driver.get(url='https://untappd.com/search?q=a&type=beer&sort=')
+    driver.get(url='https://untappd.com/user/KingApollo93/beers')
     try:
         while True:
             # Прокрутка вниз
             driver.execute_script("window.scrollBy(0, 5000);")
             time.sleep(5)
             show_more_link = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.XPATH, "//a[@class='button yellow more_search track-click']"))
+            EC.presence_of_element_located((By.XPATH, "//a[@class='button yellow more more-list-items track-click']"))
             )
             # Нажатие на ссылку
             show_more_link.click()
@@ -44,7 +44,7 @@ try:
     beers = soup.find_all('div', class_='beer-item')
 
     # Сбор данных для каждого пива
-    with open('beer info scrappers/beers.csv', 'w', newline='', encoding='utf-8') as file:
+    with open(r'C:\Users\Administrator\PycharmProjects\beerbot\beer info scrappers\untappd\profiles\parsed_beers.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         # Запись заголовков столбцов
         writer.writerow(["Пиво", "Пивоварня", "Стиль", "ABV", "IBU", "Рейтинг"])
