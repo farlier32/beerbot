@@ -1,0 +1,372 @@
+name,brewery,style,release_date,rating,ibu,hops,malts,additives,alcohol,og,personal_rating
+Morning Manya,Zavod,Sour - Tomato / Vegetable Gose,2019-06-07,3.879,7.0,,,,4.1,,4
+Pošasć: Strata,Malanka,IPA - Quadruple,2024-12-18,4.534,150.0,Strata,Pilsner,,6.8,24.0,4
+Canyon,Stamm Brewing,IPA - New England / Hazy,2024-08-06,4.085,,,,,6.5,,4
+Saĺsa: Boršč,Malanka,Sour - Tomato / Vegetable Gose,2024-12-18,4.288,,,"Pilsner,Wheat,Flaked Wheat","Beetroot,Onion,Black Pepper,Red Pepper,Bay Leaf,Coriander,Caraway",4.0,12.0,4
+Arcadia,Stamm Brewing,IPA - New England / Hazy,2024-08-19,4.059,,,,,6.5,,4
+Got Some Milk?,Jungle Brewery,Stout - Milk / Sweet,2018-12-04,4.084,30.0,Simcoe,,Lactose,6.5,18.5,4
+Evil Jungle,Jungle Brewery,IPA - Triple,2024-09-02,4.319,100.0,"Citra,Amarillo",,,6.8,24.5,4
+Spirit Reaver,Midnight Project,IPA - Imperial / Double,2024-09-01,,70.0,,,,6.8,,4
+Harvest Festival,Bierstaat,Wheat Beer - Hefeweizen,2024-11-11,3.729,,,,,5.3,,4
+American Pale Ale,13 Litar,Pale Ale - American,2016-08-17,3.891,35.0,,,,5.0,,4
+IPA v.3,Волковская пивоварня,IPA - Session,2017-02-08,3.563,55.0,,,,5.9,,4
+Fiordland Sky,Bierstaat,Pilsner - New Zealand,2024-12-02,3.885,27.0,,,,5.2,,4
+Long Road,Jungle Brewery,Porter - Imperial / Double Baltic,2024-12-23,4.342,30.0,,,,6.8,,4
+Shroomdalf,Selfmade Brewery,Sour - Other Gose,2023-06-09,4.209,8.0,,,,5.2,,4
+#2,Sozhski Beer,Pilsner - German,2021-02-26,3.529,20.0,,,,4.0,,4
+СИДР Вишневый,СИДР,Cider - Other Fruit,2023-06-23,3.969,,,,,5.0,,4
+Your Quadruple Sour Advent Juice,Midnight Project,Sour - Fruited,2024-11-27,4.336,15.0,,,,6.8,,4
+Перцы рядом сверлят взглядом,4BREWERS,Sour - Other Gose,2024-11-12,4.061,,,,,4.5,,4
+Smuha: Superdelic,Malanka,IPA - Imperial / Double New England / Hazy,2024-12-04,4.407,40.0,Superdelic,"Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.8,18.4,4
+Krush Bandicoot,Midnight Project,IPA - New England / Hazy,2024-12-20,4.209,25.0,,,,6.3,,4
+Your Quadruple Sour Cranberry Juice,Midnight Project,Sour - Fruited,2022-11-25,4.118,15.0,,,,6.8,,4
+Cherry & Chocolate Mead,Степь и ветер,Mead - Melomel,2019-06-20,,,,,,6.8,,4
+Spicy Cocoa Stout,Sozhski Beer,Stout - Milk / Sweet,2024-11-27,4.005,15.0,,,,6.9,,4
+Mimic Chest,Selfmade Brewery,Stout - Milk / Sweet,2021-12-21,3.937,22.0,,,"Vanilla,Tonka Beans",6.8,,4
+Sunny Twist,Jungle Brewery,Sour - Fruited,2024-12-23,4.241,10.0,,,,5.0,,4
+Şalgam Spicy,Zavod,Sour - Other Gose,2024-06-24,4.107,,,,,4.5,,5
+Full Circle,Jungle Brewery,Pilsner - German,2024-11-25,4.004,28.0,"Hallertau Blanc,Tettnanger",,,5.0,11.7,4
+Tomatoni: BBQ,Jungle Brewery,Sour - Other Gose,2023-02-21,4.285,10.0,,,,5.0,13.0,4
+Ceremony,Selfmade Brewery,IPA - New England / Hazy,2020-12-02,3.974,42.0,"Simcoe,Mosaic",,,6.8,,4
+Ručaj: Dvanaccatka,Malanka,Pilsner - Czech / Bohemian,2024-12-13,4.196,40.0,Saaz,"Pilsner,Caramel",,4.8,,4
+Ultraviolence,"Time Bomb Brewery,White Stone Brewery",IPA - Triple New England / Hazy,2024-05-23,4.115,,,,,6.8,,4
+Mitrenha: Citra & Simcoe,Malanka,IPA - Imperial / Double,2024-10-07,4.375,80.0,"Citra,Simcoe",Pilsner,,6.8,18.5,4
+Bliskavica: Nectaron & Nelson,Malanka,IPA - New England / Hazy,2024-12-11,4.39,40.0,"Nectaron,Nelson Sauvin","Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.8,17.0,4
+Dark Hall,Bierbank,Stout - American,2024-12-12,4.125,40.0,,,,6.8,,4
+White Rabbit,Browar Stu Mostów,IPA - Imperial / Double New England / Hazy,2022-09-21,3.85,,,,,6.8,,4
+Hop Headshot: El Dorado,Midnight Project,IPA - Triple,2021-12-24,4.152,111.0,El Dorado,,,6.8,,4
+First Encounter,"Brewmen,Ostrovica",IPA - New England / Hazy,2023-09-15,3.852,30.0,,,,6.8,,4
+Blanche A'la Citronnelle,"Panzer Brewery,Bierstaat",Wheat Beer - Witbier / Blanche,2024-05-21,3.879,10.0,,,,5.0,,4
+Pavietra: Galaxy,Malanka,Pale Ale - New England / Hazy,2024-07-24,4.194,40.0,Galaxy,"Pilsner,Wheat,Flaked Wheat",,5.5,15.0,4
+Howard Loves Cat,Midnight Project,Pale Ale - New England / Hazy,2024-10-25,3.943,25.0,,,,5.0,,4
+Pazuzu,Midnight Project,Stout - American,2024-09-01,,95.0,,,,6.8,,4
+All-Black the Necrosword,Midnight Project,IPA - Imperial / Double Black,2024-12-27,4.148,90.0,,,,6.8,,4
+Здурнелі зусім і дадалі ў пшанічку Сабра,Midnight Project,Wheat Beer - Hopfenweisse,2024-12-20,4.032,24.0,,,,6.9,,4
+Remorseless Winter,Midnight Project,IPA - Cold,2024-12-13,4.047,50.0,"Mosaic,Simcoe",,,6.9,,4
+小島さんは鬼才です。,Midnight Project,Lager - Japanese Rice,2024-11-29,3.881,10.0,,,,4.6,,4
+Frederick,Midnight Project,Stout - Imperial / Double Pastry,2024-11-27,4.024,65.0,,,,6.8,,4
+Imhla: Nelson Amplifire,Malanka,IPA - New England / Hazy,2024-11-13,4.458,40.0,,,,6.6,,4
+Свярдлоўскі дваровы кот,Midnight Project,IPA - American,2024-11-21,,50.0,,,,6.6,,4
+Little Big Hero,Midnight Project,IPA - Triple New England / Hazy,2023-01-20,4.225,10.0,,,,6.8,,4
+Juniper & Basil Tonic Mead,Степь и ветер,Mead - Other,2024-04-05,4.007,,,,,4.5,,4
+FACTORY TRIPLE IPA,Robim Good Brewery,IPA - Triple,2024-11-11,4.293,120.0,Nectaron,,,6.8,,4
+Zhigulikkeller,"Midnight Project,Mikkeller,Selfmade Brewery",Lager - IPL (India Pale Lager),2019-02-12,3.914,37.0,"Citra,Simcoe",,,4.2,,4
+Spectral Elixir,Midnight Project,Pale Ale - New England / Hazy,2024-11-29,4.141,20.0,,,,4.8,,4
+Boost: Citra & Nelson Sauvin,Jungle Brewery,Pale Ale - New England / Hazy,2024-11-11,4.396,30.0,,,,5.9,,4
+Hop Headshot: Strata,Midnight Project,IPA - Triple,2024-10-04,4.226,111.0,,,,6.8,,4
+Closed Party,Midnight Project,IPA - Imperial / Double,2024-09-19,4.293,65.0,,,,6.8,,4
+Burn Masha,Zavod,Sour - Traditional Gose,2018-12-07,4.073,8.0,,,,6.9,,3
+Tomatoni: Ajika,Jungle Brewery,Sour - Other Gose,2022-10-24,4.154,10.0,,,,5.0,13.0,4
+Шабаны,"Chibis Brewery,Bierstaat",Lager - Helles,2023-07-20,3.664,,,,,4.7,,4
+Rager: HBC-682,Valaduta,IPA - Imperial / Double,2024-11-15,4.339,70.0,,,,6.8,,4
+Tomato Soul Smoked Edition,Brewmen,Sour - Traditional Gose,2021-06-15,4.0,30.0,,,,5.5,,4
+Red River,Stamm Brewing,Pale Ale - American,2014-10-07,3.741,60.0,,,,5.5,,4
+Thunderclap,Bierstaat,Stout - Milk / Sweet,2024-11-11,4.017,,,,,6.2,,4
+Anubis,Midnight Project,Porter - Imperial / Double Baltic,2024-03-07,4.165,50.0,,,,6.8,,4
+Pavaloka: HBC 1019,Malanka,IPA - Triple New England / Hazy,2024-10-30,4.495,40.0,HBC 1019,"Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.8,21.0,4
+Chainsword,Midnight Project,IPA - Imperial / Double,2024-09-27,4.077,60.0,,,,6.8,,4
+Vehkoi,Snowcap Brewing,IPA - American,2023-12-25,4.062,50.0,,,,6.8,,4
+Banana Kraken,Panzer Brewery,Wheat Beer - Hefeweizen,2014-07-07,3.47,11.0,,,,4.5,,4
+Juicy IPA,Frydenlund Bryggerier,IPA - New England / Hazy,2020-02-11,3.358,,,,,4.6,,4
+Mikli,Snowcap Brewing,IPA - American,2024-05-20,3.981,50.0,,,,6.8,,4
+Mead Pyment,Степь и ветер,Mead - Pyment,2024-04-05,4.097,,,,,6.0,,4
+Shroomdalf Garlic,Selfmade Brewery,Sour - Other Gose,2024-07-12,4.126,10.0,,,,5.0,,4
+Replica: BRU-1,Zagovor Brewery,IPA - New England / Hazy,2021-07-30,3.968,30.0,BRU-1,,,6.5,16.0,4
+NEXT LEVEL-MOSAIC,Big Village Brewery,IPA - Imperial / Double New England / Hazy,2022-10-06,4.092,40.0,,,,6.8,,4
+Vyspa: Mosaic & Cascade,Malanka,Pale Ale - New England / Hazy,2024-10-17,4.147,40.0,"Mosaic,Cascade","Pilsner,Wheat,Flaked Wheat",,5.4,13.0,4
+Hel,Midnight Project,Stout - Imperial / Double Oatmeal,2024-10-25,4.211,40.0,,,,6.8,,4
+Chaliera: Simcoe,Malanka,IPA - American,2021-01-10,4.113,50.0,Simcoe,Pilsner,,5.7,13.0,4
+Cyklon: Medusa,Malanka,IPA - New England / Hazy,2024-10-14,4.249,40.0,Medusa,"Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.8,17.0,4
+Blend Me! Sour & Melomel,Midnight Project,Mead - Other,2024-08-30,4.151,,,,,6.8,,4
+Dym: Malina,Malanka,Historical Beer - Lichtenhainer,2024-07-31,4.067,,,"Pilsner,Wheat,Flaked Wheat,Smoked,Peated",Raspberry,4.0,11.0,4
+Spirit Chaser,Jungle Brewery,IPA - New England / Hazy,2024-10-14,4.326,35.0,"Citra,Amarillo,El Dorado",,,6.7,16.1,4
+Зависимость [Ribs Addiction],"4BREWERS,Frank By Basta",Sour - Other Gose,2023-09-18,3.71,,,,,5.0,,4
+ERIS,Midnight Project,Stout - Russian Imperial,2018-06-09,4.364,120.0,,,,6.8,,4
+Cranberry And Tonka Beans Mead,"Степь и ветер,Midnight Project",Mead - Melomel,2024-08-07,4.215,,,,,6.8,,4
+Alho,Snowcap Brewing,Sour - Other Gose,2024-05-08,3.963,10.0,,,,6.0,,4
+Rainy Days,Midnight Project,IPA - Imperial / Double New England / Hazy,2023-10-20,4.184,30.0,"Ahhhroma,Idaho 7,Mosaic",,,6.8,,4
+Hot In the Shade,Rewort Brewery,Sour - Tomato / Vegetable Gose,2023-05-04,4.147,,,,,6.1,20.5,4
+Kali's Kiss,Rewort Brewery,Sour - Other Gose,2021-11-10,4.096,,,,,6.3,20.5,4
+Tajfun: Nelson & Galaxy,Malanka,IPA - Imperial / Double New England / Hazy,2024-09-17,4.211,50.0,"Nelson Sauvin,Galaxy","Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.8,18.0,4
+Smarahd: Wet Hop Pils,Malanka,Pilsner - German,2024-10-14,4.227,40.0,"Magnum,Tettnanger",Pilsner,,4.8,14.0,4
+Баланс Белого,Милл Фауз,Wheat Beer - Other,2022-09-12,2.643,,,,,4.0,,4
+Hop Headshot: Nelson Sauvin,Midnight Project,IPA - Triple,2024-07-26,4.199,111.0,Nelson Sauvin,,,6.8,,4
+Your Quintuple Symbiote Juice,Midnight Project,Sour - Fruited,2021-07-23,4.276,10.0,,,,6.8,,4
+Le Bonheur Existe: Calvados BA,Midnight Project,Belgian Quadrupel,2023-12-30,4.035,37.0,,,,6.8,,4
+American IPA,Asda,IPA - American,2018-09-01,3.289,,,,,5.2,,4
+10th Anniversary Russian Imperial Stout,Salden’s Brewery,Stout - Russian Imperial,2022-11-25,4.053,,,,,6.8,,4
+Asphyxia,"Midnight Project,Ability Brewing Project",Stout - Russian Imperial,2024-09-05,4.296,70.0,,,,6.8,,4
+Jumis,Malanka,Wheat Beer - Wheat Wine,2024-05-15,4.123,,,"Pilsner,Wheat,Flaked Wheat","Pippali pepper,Bergamot,Rose",6.8,19.5,4
+La Fin De La Saison 6,Dieta,Farmhouse Ale - Saison,2023-12-11,3.83,,,,,6.8,,4
+Здурнелі зусім і дадалі ў пшанічку Нельсан,Midnight Project,Wheat Beer - Hopfenweisse,2024-09-05,4.123,14.0,,,,6.9,,4
+Black Steel,Midnight Project,IPA - Imperial / Double Black,2023-02-24,4.192,90.0,,,,6.8,,4
+Imhla: Zappa,Malanka,IPA - New England / Hazy,2023-02-24,4.178,30.0,Zappa,"Pilsner,Flaked Oats,Flaked Wheat,Wheat",,6.0,16.0,4
+Abšar: Mosaic,Malanka,IPA - White / Wheat,2024-08-26,4.36,40.0,Mosaic,"Pilsner,Wheat,Flaked Wheat",,6.8,18.0,4
+Hop Division,Zagovor Brewery,IPA - American,2016-03-10,3.953,77.0,,,,6.5,,4
+Chaliera: Elani,Malanka,IPA - American,2024-08-21,4.225,80.0,Elani,Pilsner,,6.6,16.0,4
+Hop Headshot: Motueka,Midnight Project,IPA - Triple,2024-08-23,4.037,111.0,,,,6.8,,4
+Rager: Elani,Valaduta,IPA - Imperial / Double,2024-08-29,4.124,70.0,Elani,,,6.8,,4
+Tropicana,Art'A Brewery,Mead - Melomel,2022-06-09,3.856,,,,,5.9,,4
+Sabro One Love,Jungle Brewery,IPA - Session,2021-04-05,4.216,40.0,Sabro,,,5.0,12.9,4
+Vyspa: Talus & Citra Cryo,Malanka,Pale Ale - New England / Hazy,2024-08-14,4.294,40.0,"Talus,Citra","Pilsner,Wheat,Flaked Wheat,Flaked Oats",,5.4,13.0,4
+Overdub,Jungle Brewery,IPA - Imperial / Double,2019-09-17,4.208,80.0,"Simcoe,Centennial,Citra,Mosaic,Amarillo",,,6.8,19.0,4
+Zavieja: Sabro & HBC 1019,Malanka,IPA - Imperial / Double New England / Hazy,2024-08-12,4.272,40.0,"Sabro,HBC 1019","Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.8,18.5,4
+Yellow Diamond,Midnight Project,IPA - Imperial / Double New England / Hazy,2024-08-01,4.039,30.0,,,,6.8,,4
+Imhla: HBC 638,Malanka,IPA - New England / Hazy,2024-08-02,4.27,40.0,HBC 638,"Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.4,17.5,4
+Yellow Dragon,Midnight Project,IPA - Triple New England / Hazy,2022-11-04,4.176,25.0,,,,6.8,,4
+Yellow Road,Midnight Project,Pale Ale - New England / Hazy,2024-08-01,4.038,20.0,HBC586,,,5.7,,4
+Double You,Jungle Brewery,IPA - Imperial / Double,2021-02-19,4.221,90.0,"Centennial,Citra,Idaho 7",,,6.8,,4
+Abšar: HBC 1019,Malanka,IPA - White / Wheat,2024-07-10,4.278,40.0,HBC 1019,"Pilsner,Wheat,Flaked Wheat",,6.8,18.0,4
+Imhla: ID-158,Malanka,IPA - New England / Hazy,2024-06-17,4.26,40.0,ID-158,"Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.8,18.0,4
+Ciemra: Double Mosaic,Malanka,IPA - Imperial / Double Black,2024-06-26,4.283,100.0,Mosaic,"Pilsner,Black",,6.8,19.0,4
+Fogin’ Frog,Midnight Project,IPA - Imperial / Double New England / Hazy,2023-02-17,4.126,25.0,"Talus,Mosaic",,,6.8,,4
+Страна Курляндия,"Midnight Project,AF Brew",Pale Ale - New England / Hazy,2024-07-03,4.063,20.0,"Nelson Sauvin,Nectaron,HBC586",,,4.0,,4
+Boost: Citra & Mosaic,Jungle Brewery,Pale Ale - New England / Hazy,2024-07-01,4.324,35.0,"Citra,Mosaic",,,5.7,13.6,4
+Икарус,Midnight Project,IPA - Imperial / Double New England / Hazy,2021-02-12,4.145,,"Citra,Mosaic,Azacca",,,6.8,,4
+Power Mood,Jungle Brewery,IPA - New England / Hazy,2024-06-24,4.228,30.0,"Moutere,Motueka,Mosaic",,,6.7,15.4,4
+Dive Into Hell,Selfmade Brewery,IPA - New England / Hazy,2024-05-17,4.024,55.0,,,,6.8,,4
+Boost: Citra & Galaxy,Jungle Brewery,Pale Ale - New England / Hazy,2024-05-17,4.332,35.0,"Citra,Galaxy",,,5.5,13.3,4
+Mandalorian Darksaber,Midnight Project,IPA - Cold,2024-06-14,4.238,100.0,"Cascade,Mosaic",,,6.8,,4
+Yellow Sea,Midnight Project,IPA - New England / Hazy,2023-05-05,4.044,30.0,"BRU-1,Citra",,,6.8,,4
+Smuha: HBC 1019,Malanka,IPA - Imperial / Double New England / Hazy,2024-06-03,4.388,40.0,HBC 1019,"Pilsner,Wheat,Flaked Wheat,Flaked Oats",,6.8,18.4,4
+Abšar: Vic Secret,Malanka,IPA - White / Wheat,2024-05-27,4.302,40.0,Vic Secret,"Pilsner,Wheat,Flaked Wheat",,6.8,18.0,4
+Ghostly Caravan,Stamm Brewing,IPA - Imperial / Double New England / Hazy,2022-05-26,4.155,,,,,6.8,,4
+Mlosć: Elani,Malanka,Pale Ale - American,2024-05-27,4.132,40.0,Elani,"Pilsner,Special B",,5.6,13.0,4
+Maisel & Friends Pale Ale,Brauerei Gebr. Maisel,Pale Ale - American,2014-02-22,3.556,32.0,"Herkules,Chinook,Amarillo,Simcoe,Citra",,,5.2,,4
+Elvis Juice,BrewDog,IPA - American,2016-02-24,3.692,40.0,"Magnum,Simcoe,Amarillo,Mosaic,Citra","Pale Ale,Caramel",Grapefruit,6.5,15.0,4
+Hazy Jane Guava,BrewDog,IPA - New England / Hazy,2021-06-19,3.711,20.0,,,,5.0,,4
+ALD IPA,"BrewDog,ALDI Stores UK,ALDI Stores Germany South / Süd",IPA - Session,2020-10-09,3.263,,,,,4.7,,4
+Gremlin,Selfmade Brewery,IPA - New England / Hazy,2024-05-03,4.074,55.0,,,,6.9,,4
+It's Five!,Malanka,IPA - Triple New England / Hazy,2024-05-17,4.488,50.0,,,,6.8,,5
+Unchained Melody,Midnight Project,IPA - New England / Hazy,2024-04-18,4.114,30.0,"Citra,Nectaron,Mosaic",,,6.9,,4
+Single Hop Player: Moutere,Midnight Project,IPA - New Zealand,2024-04-25,4.02,50.0,Moutere,,,6.8,,4
+Imhla: Galaxy,Malanka,IPA - New England / Hazy,2024-05-13,4.324,40.0,Galaxy,,,6.8,17.0,4
+SOCKET QUEST,Big Village Brewery,IPA - Imperial / Double New England / Hazy,2024-05-02,4.099,40.0,,,,6.8,,4
+Hop Headshot: Amarillo,Midnight Project,IPA - Triple,2022-11-17,4.14,111.0,Amarillo,,,6.8,,4
+First Charge,Jungle Brewery,IPA - Imperial / Double,2024-04-22,4.366,90.0,"Chinook,Warrior,Citra,Centennial",,,6.8,17.5,4
+Juicy Squeeze,Jungle Brewery,IPA - New Zealand,2024-04-29,4.328,50.0,"Moutere,Motueka,Nectaron",,,6.8,17.3,4
+Abšar: Nectaron,Malanka,IPA - White / Wheat,2024-05-02,4.307,40.0,Nectaron,"Pilsner,Wheat,Flaked Wheat",,6.8,18.5,4
+Pavietra: Talus,Malanka,Pale Ale - New England / Hazy,2024-04-24,4.152,30.0,Talus,"Pilsner,Wheat,Flaked Wheat",,5.5,,4
+Chaliera: Hallertau Blanc,Malanka,IPA - American,2024-04-08,4.225,70.0,Hallertau Blanc,Pilsner,,6.6,16.0,4
+Delusions,Bierbank,IPA - New England / Hazy,2024-04-23,3.784,40.0,Vic Secret,,,6.4,,4
+Boost: McKenzie & Mosaic,Jungle Brewery,Pale Ale - New England / Hazy,2024-04-01,4.229,35.0,"McKenzie,Mosaic",,,5.9,13.6,4
+Saĺsa: Superhot Mix,Malanka,Sour - Tomato / Vegetable Gose,2024-04-22,4.372,,,"Pilsner,Wheat","Tomato,Red Pepper",4.0,12.0,4
+Your Quadruple Sour Raspberry Juice,Midnight Project,Sour - Fruited,2023-08-18,4.191,15.0,,,,6.8,,4
+Hardcore Heaven,Jungle Brewery,IPA - Imperial / Double,2024-03-18,4.287,100.0,"Chinook,Warrior,Azacca,El Dorado,Vic Secret",,,6.8,17.1,4
+Art of Space,Carousel Brewery,IPA - Imperial / Double,2024-04-12,3.992,70.0,"Galaxy,Taiheke",,,6.8,,4
+Klubbhopping,Midnight Project,IPA - American,2024-04-05,3.982,50.0,"Citra,Waimea",,,6.8,,4
+Divine Rapier,Midnight Project,IPA - Triple,2024-03-28,4.16,130.0,"Citra,Galaxy,Rakau",,,6.8,,4
+Tajfun: Nelson & Blanc,Malanka,IPA - Imperial / Double New England / Hazy,2024-04-15,4.388,50.0,"Nelson Sauvin,Hallertau Blanc","Pilsner,Flaked Oats,Wheat,Flaked Wheat",,6.8,18.5,4
+Out of the Stout: Апельсин / Острый перец,Jaws,Stout - Milk / Sweet,2021-12-18,3.759,25.0,,,"Orange,Red Pepper",5.8,16.0,4
+IIINITY,"Malanka,Carousel Brewery,Spin Bar",IPA - Imperial / Double Black,2024-04-08,4.337,180.0,"Galaxy,Simcoe,Sabro","Pilsner,Black",,6.8,,4
+Siomy Rehijon,Midnight Project,IPA - Imperial / Double New England / Hazy,2024-04-05,4.197,30.0,"Nelson Sauvin,Citra,Superdelic",,,6.8,,4
+Bliskavica: Galaxy,Malanka,IPA - New England / Hazy,2024-04-01,4.343,40.0,Galaxy,"Pilsner,Wheat,Flaked Oats,Flaked Wheat",,6.8,,4
+HARD DRUM,Big Village Brewery,IPA - Triple New England / Hazy,2024-02-08,4.258,50.0,,,,6.8,,4
+Minimatic,Stamm Brewing,IPA - New England / Hazy,2024-03-14,4.068,,,,,6.5,,4
+Angela D.,Rewort Brewery,Pale Ale - American,2017-11-01,3.674,40.0,"Amarillo,Citra,Centennial,Mosaic",,,5.5,13.0,4
+Cold Double IPA,Salden’s Brewery,IPA - Cold,2023-03-15,3.97,100.0,,,,6.8,,4
+YELLOW COPTER,Big Village Brewery,IPA - New England / Hazy,2024-02-02,4.029,30.0,,,,6.8,,4
+Zavieja: Galaxy & Vista,Malanka,IPA - Imperial / Double New England / Hazy,2024-03-11,4.373,40.0,"Galaxy,Vista","Pilsner,Wheat,Flaked Oats,Flaked Wheat",,6.8,18.0,4
+Smuha: HBC 586,Malanka,IPA - Imperial / Double New England / Hazy,2024-03-20,4.284,40.0,HBC586,"Pilsner,Wheat,Flaked Oats,Flaked Wheat",,6.8,18.0,4
+Hop Headshot: Ekuanot,Midnight Project,IPA - Triple,2023-10-13,4.16,111.0,Ekuanot,,,6.8,,4
+Sleeping Volcano,Jungle Brewery,IPA - Imperial / Double Black,2024-03-07,4.289,90.0,"Warrior,Chinook,Cashmere,Citra",,,6.8,19.3,4
+Mitrenha: Mosaic & Idaho Gem,Malanka,IPA - Imperial / Double,2024-03-13,4.323,90.0,"Mosaic,Idaho Gem",Pilsner,,6.8,18.4,4
+Just Casual,Carousel Brewery,IPA - American,2024-03-15,3.874,50.0,"HBC630,HBC472,Talus",,,6.1,,4
+LOST MISSION,Big Village Brewery,IPA - Imperial / Double New England / Hazy,2024-03-05,4.134,40.0,,,,6.8,,4
+Abšar: BRU-1,Malanka,IPA - White / Wheat,2024-03-06,4.143,40.0,BRU-1,"Pilsner,Wheat,Flaked Wheat",,6.8,19.0,4
+Big Trouble,"Midnight Project,Time Bomb Brewery",IPA - Imperial / Double,2024-03-07,4.059,70.0,"El Dorado,Ekuanot,Citra,Amarillo",,,6.8,,4
+Creator the Tyler,Midnight Project,IPA - Imperial / Double Black,2023-07-28,4.067,60.0,"Cascade,Mosaic",,,6.8,,4
+Cosmic Entity,Midnight Project,IPA - Imperial / Double New England / Hazy,2024-03-02,4.06,30.0,"El Dorado,Cashmere,Citra",,,6.8,,4
+LIGHTNING STRIKE,Big Village Brewery,IPA - Triple,2024-01-11,4.031,100.0,,,,6.8,,4
+Elephant Gym,Zagovor Brewery,IPA - Imperial / Double New England / Hazy,2023-12-22,4.096,40.0,,,,6.8,,4
+Dom Numar Try,Malanka × Malanka Taproom,IPA - Triple New England / Hazy,2024-02-17,4.533,60.0,Citra,"Pilsner,Wheat,Flaked Oats,Flaked Wheat",,6.8,22.0,5
+Tajfun: Motueka & Mosaic,Malanka,IPA - Imperial / Double New England / Hazy,2024-02-16,4.376,50.0,"Motueka,Mosaic","Pilsner,Wheat,Flaked Oats,Flaked Wheat",,6.8,19.3,4
+If There's No Tomorrow,Bierbank,IPA - Imperial / Double New England / Hazy,2024-02-26,4.115,50.0,"Galaxy,Citra",,,6.8,,4
+Mlosć: Idaho Gem,Malanka,Pale Ale - American,2024-02-23,4.141,60.0,Idaho Gem,Pilsner,,5.6,13.0,4
+Lord of the Board,Midnight Project,Pale Ale - American,2024-02-15,3.967,35.0,,,,5.1,,4
+Pošasć: Sabro,Malanka,IPA - Quadruple,2024-02-09,4.335,150.0,Sabro,Pilsner,,6.8,24.0,4
+Pavietra: Citra,Malanka,Pale Ale - New England / Hazy,2024-02-09,4.21,30.0,Citra,"Pilsner,Wheat,Flaked Oats,Flaked Wheat",,5.6,15.0,4
+Second Chance,Jungle Brewery,IPA - American,2024-02-12,4.099,55.0,"Warrior,Ahhhroma,Citra,Cascade",,,6.2,13.3,4
+Tomatoni: Madras Curry,Jungle Brewery,Sour - Tomato / Vegetable Gose,2024-01-29,4.302,10.0,,,,5.0,13.0,4
+Zweihander,Midnight Project,IPA - Imperial / Double,2024-02-02,4.017,70.0,"Citra,Idaho 7,HBC630",,,6.8,,4
+Bring Back,Jungle Brewery,IPA - New England / Hazy,2023-12-29,4.257,35.0,"Sabro,Mosaic,Ahhhroma,Citra,Azacca",,,6.8,16.8,4
+Chaliera: Idaho Gem,Malanka,IPA - American,2024-02-02,4.181,80.0,Idaho Gem,Pilsner,,6.5,16.0,4
+Hop Headshot: Sabro,Midnight Project,IPA - Triple,2020-10-15,4.242,111.0,Sabro,,,6.8,,4
+Smuha: Talus,Malanka,IPA - Imperial / Double New England / Hazy,2021-04-02,4.324,,Talus,"Pilsner,Flaked Oats",,6.8,20.0,4
+Frozen Throne,Midnight Project,IPA - Cold,2024-01-19,4.005,60.0,"Cascade,Citra,Simcoe",,,6.8,,4
+Imhla: Eclipse,Malanka,IPA - New England / Hazy,2024-01-24,4.307,30.0,Eclipse,"Pilsner,Wheat,Flaked Oats,Flaked Wheat",,6.0,17.0,4
+Blackout,13 Litar,Stout - American,2017-01-20,3.974,40.0,"Magnum,Sladek,Kazbek,Pekko,El Dorado","Pilsner,Munich,Caramel,Caraaroma,Roasted Barley,Chocolate,Black",,5.5,15.0,4
+Abšar: Ahhhroma,Malanka,IPA - White / Wheat,2024-01-12,4.271,40.0,Ahhhroma,"Pilsner,Wheat,Flaked Wheat",,6.8,19.0,4
+Trasca: Simcoe & Sabro,Malanka,IPA - Triple,2024-01-10,4.387,120.0,"Simcoe,Sabro",Pilsner,,6.8,21.0,4
+Hop Headshot: Citra,Midnight Project,IPA - Triple,2018-09-29,4.216,111.0,Citra,,,6.8,,4
+Tajfun: Enigma & Simcoe Cryo,Malanka,IPA - Imperial / Double New England / Hazy,2023-12-29,4.384,40.0,"Enigma,Simcoe","Pilsner,Wheat,Flaked Oats,Flaked Wheat",,6.8,19.3,4
+Dog Friendly,Midnight Project,Sour - Fruited,2023-11-11,4.022,10.0,,,Blackberry,6.0,,4
+Tomato Factory: Sriracha,Valaduta,Sour - Other Gose,2023-11-06,4.438,10.0,,,,5.0,,4
+Zavieja: Enigma & Sabro,Malanka,IPA - Imperial / Double New England / Hazy,2023-11-17,4.407,40.0,"Enigma,Sabro","Pilsner,Wheat,Flaked Oats,Flaked Wheat",,6.8,18.8,4
+Cyberpunk Shotgun,Midnight Project,IPA - Imperial / Double,2023-11-17,4.076,70.0,"Citra,Mosaic",,,6.8,,4
+Regenesis,Jungle Brewery,IPA - New England / Hazy,2023-12-21,4.325,35.0,"Ahhhroma,Sabro",,,6.8,16.3,4
+Session IPA,Berezan's Brewery,IPA - Session,2022-11-27,,30.0,,,,5.0,,3
+Ethereal,Rewort Brewery,Pale Ale - New England / Hazy,2023-10-25,3.881,30.0,,,,5.0,,4
+Kodalahti,Snowcap Brewing,IPA - Imperial / Double,2023-11-05,4.024,70.0,,,,6.8,,4
+Greenhouse Fresh,AF Brew,Sour - Fruited Gose,2019-07-04,3.64,,,,,4.8,,4
+Triple Vista,AF Brew,IPA - Triple New England / Hazy,2023-01-24,3.789,20.0,,,,6.8,,4
+Double Vista,AF Brew,IPA - Imperial / Double New England / Hazy,2023-01-24,3.806,20.0,,,,6.8,,4
+Pizza Boy,Selfmade Brewery,Sour - Traditional Gose,2018-08-08,3.868,14.0,,,,5.8,,4
+А вы точно из отдела кадров?,4BREWERS,IPA - New England / Hazy,2023-07-10,3.934,,,,,6.8,,3
+Black Currant Mead,Степь и ветер,Mead - Melomel,2018-03-13,4.111,,,,Black Currant,6.0,,4
+Tomato Gose Uzbekistan Edition,Salden’s Brewery,Sour - Other Gose,2023-06-30,3.711,,,,,5.0,,4
+Patch,Zagovor Brewery,Sour - Traditional Gose,2019-03-16,4.085,10.0,,,"Guava,Mango,Passion fruit,Lime",5.5,14.0,4
+The Base,Mad Frog Brewery,Mead - Other,2023-02-23,4.447,,,,,6.8,,4
+Rocket Jump,Selfmade Brewery,IPA - American,2017-11-20,3.851,49.0,"Citra,Lemondrop,Warrior,Cascade",,,6.3,,4
+Catonomicon,Selfmade Brewery,IPA - New England / Hazy,2023-07-13,4.022,42.0,,,,6.0,,4
+Калекцыя майстра Hoppy Lager,Лідскае піва,Lager - IPL (India Pale Lager),2023-02-28,3.529,25.0,"Sabro,Ella,Perle",,,5.0,,4
+NEIPA,Hrew Brew,IPA - New England / Hazy,2019-08-13,3.615,10.0,,,,6.0,,3
+Hazy Jane,BrewDog,IPA - New England / Hazy,2019-12-02,3.673,,,,,5.0,,4
+SOUP IPA,Garage Beer Co.,IPA - New England / Hazy,2017-01-04,3.94,,,,,6.0,,5
+Kasteel Rouge,Brouwerij Van Honsebrouck,Fruit Beer,,3.583,8.0,,,,6.9,,4
+Kasteel Tripel,Brouwerij Van Honsebrouck,Belgian Tripel,2010-11-12,3.632,30.0,,,,6.8,,4
+Goose IPA,Goose Island,IPA - English,,3.509,55.0,"Pilgrim,Celeia,Cascade,Centennial","Pale Ale,Munich,Caramel",,5.9,,4
+Pale Ale,Amundsen Bryggeri & Spiseri,Pale Ale - English,2011-11-28,3.471,36.0,,,,4.5,,4
+Hobgoblin IPA,Wychwood Brewery,IPA - English,2017-06-15,3.506,50.0,"Fuggle,Styrian Golding",,,5.6,,4
+IPA,13 Litar,IPA - American,2016-03-24,3.901,50.0,"Premiant,Simcoe,Kazbek,Jarrylo","Pale Ale,Pilsner,Munich,Caraaroma,Carared",,5.1,15.0,4
+IPA,13 Litar,IPA - American,2016-03-24,3.901,50.0,"Premiant,Simcoe,Kazbek,Jarrylo","Pale Ale,Pilsner,Munich,Caraaroma,Carared",,5.1,15.0,4
+Mitrenha: Citra & Mosaic & Simcoe,Malanka,IPA - Imperial / Double,2022-05-04,4.21,80.0,"Citra,Mosaic,Simcoe",Pilsner,,6.8,17.0,4
+Zavieja: Citra & Mosaic,Malanka,IPA - Imperial / Double New England / Hazy,2022-02-04,4.458,,"Citra,Mosaic","Pilsner,Wheat,Flaked Oats",,6.8,18.5,4
+Murder IPA Birthday Edition,AF Brew,IPA - Triple,2022-01-28,4.046,200.0,,,,6.8,,4
+Blueberry Double IPA,Salden’s Brewery,IPA - Imperial / Double,2021-10-25,3.503,100.0,"Citra,Mosaic",,Blueberry,6.8,,4
+Mosaic IPA,AF Brew,IPA - American,2013-02-13,3.893,73.0,,,,6.7,,4
+RUSTY,Ostrovica,IPA - Imperial / Double New England / Hazy,2022-02-18,3.826,,,,,6.8,,4
+Bad Beat: Citra & Sabro,Midnight Project,IPA - Imperial / Double,2021-11-05,4.079,70.0,"Citra,Sabro",,,6.8,,4
+Mysterious Island Talus & Galaxy,Velka Morava,IPA - New England / Hazy,2021-04-01,3.917,,,,,6.6,,4
+Sour Russian Imperial Stout Grapefruit,Salden’s Brewery,Stout - Russian Imperial,2021-12-09,3.558,,,,,6.8,,4
+Карамбуляж,Chibis Brewery,IPA - Imperial / Double,2017-09-21,3.774,70.0,,,,6.8,,4
+Киберпанк,Alaska Brewery,IPA - Imperial / Double,2020-12-11,3.853,80.0,,,,6.8,,4
+Drunken Parrot,Salden’s Brewery,IPA - Black / Cascadian Dark Ale,2014-08-26,3.873,85.0,,,,6.8,,4
+Quadrupel,Browar Zamkowy Cieszyn,Belgian Quadrupel,2020-12-02,,35.0,,,,6.8,,4
+Tripel,Brouwerij St. Bernardus,Belgian Tripel,,3.754,30.0,,,,6.8,,4
+Elvis Juice 5.1%,BrewDog,IPA - American,2020-10-27,3.491,40.0,"Amarillo,Citra,Magnum,Mosaic,Simcoe",,,5.1,,4
+Punk IPA,BrewDog,IPA - American,2010-08-21,3.709,45.0,,,,5.6,,4
+Parhelion,Plan B Brewery,IPA - Imperial / Double,2021-05-06,3.951,70.0,"Simcoe,Citra,Mosaic",,,6.8,,4
+Hit the Magma,Sabotage,Sour - Fruited,2021-06-26,3.982,,,,"Orange,Grapefruit,Rosemary",6.5,,4
+Orange Double IPA,Salden’s Brewery,IPA - Imperial / Double,2021-11-03,3.85,100.0,,,,6.8,,4
+Eat the Dust! DDH HBC 630,AF Brew,IPA - Imperial / Double New England / Hazy,2021-10-19,3.785,40.0,HBC630,,,6.8,,4
+Tangerine IPA,Salden’s Brewery,IPA - American,2018-04-26,3.688,60.0,"Cascade,Chinook",,Tangerine,6.8,,4
+Orange IPA,Salden’s Brewery,IPA - American,2021-08-23,3.797,60.0,"Cascade,Chinook",,Orange Peel,6.8,,5
+Strawberry Double IPA,Salden’s Brewery,IPA - Imperial / Double,2016-06-16,3.925,100.0,"Citra,Mosaic",,Strawberry,6.8,,4
+Blackberry Mead,Степь и ветер,Mead - Melomel,2018-03-13,4.115,,,,Blackberry,6.0,,4
+Lucha Libre,Selfmade Brewery,Sour - Other,2021-07-15,3.993,10.0,,,,6.6,,4
+Aerials,Coven Brewery,Sour - Fruited Gose,2021-07-08,3.943,10.0,,,"Plum,Spices",6.9,,5
+Clockwork IPA,TBP,IPA - American,2021-07-09,3.74,40.0,,,,6.0,,3
+Beer With Taste of Beer: American IPA,Пивная диета,IPA - American,2020-07-19,3.968,55.0,,,,6.8,,4
+Utsukushiki Hitobito No Uta,Coven Brewery,Sour - Fruited Gose,2021-04-22,4.01,,,,,6.9,,4
+Spicy Bloody Roots,Coven Brewery,Sour - Traditional Gose,2021-04-22,3.984,,,,"Tomato,Red Pepper,Horseradish",6.5,,4
+Breakfast Basics: PBJ,Outline,Sour - Fruited,2021-07-12,4.134,,,,,6.8,,5
+Beer With Taste of Beer: Gose,Пивная диета,Sour - Traditional Gose,2020-02-28,4.077,7.0,,,"Himalayan Salt,Coriander",4.6,,4
+Primal Rage,Selfmade Brewery,IPA - Imperial / Double New England / Hazy,2021-05-22,3.821,45.0,,,,6.8,,4
+Комета IPA,New Riga’s Brewery,IPA - American,2017-01-20,3.645,65.0,"Amarillo,Cascade,Centennial,Citra,Chinook",,,6.0,,4
+RSSCRTC,"AF Brew,North Brewing Co.",IPA - Imperial / Double New England / Hazy,2021-05-13,3.804,30.0,"Galaxy,Citra,Nelson Sauvin",,,6.8,,4
+Last Slice,Selfmade Brewery,Sour - Other,2021-04-18,3.653,14.0,,,,6.3,,4
+Oak Smoked Tomato Gose Light Chili Italian Edition,Salden’s Brewery,Spiced / Herbed Beer,2020-05-03,3.997,,,,,5.0,,5
+Simcoe & Mosaic Double IPA / Extra Hops Series,Salden’s Brewery,IPA - Imperial / Double,2016-11-16,3.998,150.0,,,,6.8,,4
+Eat the Dust! DDH Talus,AF Brew,IPA - Imperial / Double New England / Hazy,2021-05-15,3.978,40.0,Talus,,,6.8,,5
+Ипать-колотить,Khoffner,IPA - American,2021-05-04,3.632,45.0,,,,6.5,,4
+Role Play: Pineapple & Mango,ColdRiver,Sour - Fruited,2021-05-18,4.064,,,,,6.0,,5
+Grapefruit Mead,Степь и ветер,Mead - Melomel,2019-10-07,4.111,,,,Grapefruit,6.7,,4
+Singularity Single Hop IPA (Comet),Jaws,IPA - American,2021-04-13,3.691,50.0,Comet,,,5.7,,4
+Double Dead,Kontrabas Brewery,IPA - Imperial / Double,2019-04-30,3.89,100.0,,,,6.8,,4
+Феромоны,Alaska Brewery,IPA - New England / Hazy,2021-01-21,3.398,30.0,"Pacific Sunrise,Galaxy,Cascade",,,6.5,16.0,4
+Triple Red IPA Chili Ed.,Salden’s Brewery,IPA - Triple,2020-12-30,3.779,200.0,"Waimea,Chinook,Cascade,Centennial",,Chili,6.8,,5
+Zoom Boom,"AF Brew,Pühaste",IPA - Imperial / Double New England / Hazy,2021-03-15,3.788,30.0,"Citra,Mosaic,Simcoe,Sabro",,,6.8,,4
+Last Goodbye,Sabotage,IPA - Imperial / Double,2018-11-01,3.843,70.0,"Citra,Centennial,Simcoe",,,6.8,,4
+Shoegaze & Beyond,Zagovor Brewery,IPA - Triple New England / Hazy,2021-01-26,4.151,40.0,Citra,,,6.8,22.0,4
+Утро Туманное,Одна тонна,IPA - New England / Hazy,2019-05-09,3.807,,,,,6.7,,4
+Green Supremacy!,AF Brew,IPA - Imperial / Double New England / Hazy,2021-02-06,3.855,30.0,"Citra,Mosaic,Sabro",,,6.8,,4
+Party Hard 2021,Одна тонна,IPA - Imperial / Double,2021-02-03,3.915,80.0,,,,6.8,,4
+Emergency Exit,4BREWERS,IPA - Quadruple,2021-02-15,4.026,100.0,,,,6.8,,4
+IPA,13 Litar,IPA - American,2016-03-24,3.901,50.0,"Premiant,Simcoe,Kazbek,Jarrylo","Pale Ale,Pilsner,Munich,Caraaroma,Carared",,5.1,15.0,4
+Switch OFF,Chibis Brewery,IPA - Imperial / Double,2019-12-19,3.754,50.0,,,,6.8,,3
+Check Out,Jaws,IPA - Brut,2018-11-16,3.709,20.0,"Nelson Sauvin,Perle",Pilsner,,6.8,13.5,4
+Pomegranate Pyment,Степь и ветер,Mead - Pyment,2020-11-09,4.311,,,,,6.8,,4
+Fatum,Paradox,IPA - Imperial / Double,2020-10-08,3.85,75.0,,,,6.8,18.0,4
+F*ck the Dust! DDH Citra,AF Brew,IPA - Triple New England / Hazy,2019-05-08,4.125,40.0,,,,6.8,,5
+Chori Chori Chupke Chupke,AF Brew,IPA - American,2020-11-27,3.766,73.0,Cashmere,,,6.7,,4
+Grape Babe,Rewort Brewery,IPA - Imperial / Double New England / Hazy,2019-12-04,3.823,48.0,"Idaho 7,Simcoe",,Grape,6.8,,4
+Tomato Method (Smoky Hot Edition),Selfmade Brewery,Sour - Traditional Gose,2020-07-09,4.017,20.0,,,,5.6,,4
+Jack Hammer,BrewDog,IPA - American,2012-07-06,3.77,250.0,,,,6.8,,4
+Hyper India DIPA,Jaws,IPA - Imperial / Double,2018-12-07,3.886,130.0,"Centennial,El Dorado,Idaho 7","Pale Ale,Brown Supreme",,6.8,18.5,4
+Tshawytscha,Jaws,IPA - Imperial / Double,2016-05-24,3.93,160.0,Chinook,,,6.8,,4
+Double Punk,BrewDog,IPA - Imperial / Double,2020-06-18,3.712,60.0,,,,6.8,,4
+Fridtjof N.,Rewort Brewery,IPA - American,2018-08-28,3.817,50.0,Mosaic,,,6.0,17.0,4
+Blowing Up: Strawberry Chokeberry,Stamm Brewing,Sour - Fruited,2020-08-13,4.013,,,,"Strawberry,Chokeberry",6.0,13.0,4
+Jürgil,Snowcap Brewing,IPA - Triple,2020-10-21,3.832,60.0,,,,6.8,,4
+Oktober,Dreamteam Brew,Märzen,2020-10-03,3.911,,,,,5.5,,4
+Triple Red IPA,Salden’s Brewery,IPA - Triple,2016-11-02,3.962,200.0,,,,6.8,,4
+4 In 1 Super Sour,Stamm Brewing,Sour - Fruited,2020-01-24,4.199,,,,"Pineapple,Blood orange,Passion fruit,Apricot",6.8,,4
+Kurchatovium,Nuclear Brewery,Pale Ale - New Zealand,2018-04-28,3.547,29.0,"Ella,Enigma,Topaz",,,5.4,,3
+Kveik Me Up When September Ends,AF Brew,IPA - Farmhouse,2020-10-01,3.836,20.0,"Citra,Sabro",,,6.5,,4
+Against Milk!,Zagovor Brewery,IPA - Milkshake,2017-02-16,3.961,65.0,,,,6.5,,4
+Battle ✊,Rewort Brewery,IPA - American,2020-08-20,3.842,36.0,"Amarillo,Mosaic",,,6.5,,4
+White IPA,Blue Moon Brewing Company,IPA - White / Wheat,2014-08-09,3.276,45.0,"Simcoe,Cascade,Citra,Huell Melon",,,5.9,,4
+Smalti,Zagovor Brewery,IPA - Imperial / Double New England / Hazy,2018-10-16,4.133,40.0,Mosaic,,,6.8,19.0,4
+PP-IPA,Бакунин,IPA - Session,2020-09-10,3.266,18.0,,,,3.0,,4
+Not On Tour,"Selfmade Brewery,Zagovor Brewery",IPA - Imperial / Double New England / Hazy,2020-08-03,3.969,40.0,"Idaho 7,Citra,Mosaic",,,6.8,19.0,5
+Lockdown,13 Litar,IPA - American,2020-08-13,3.827,40.0,Amarillo,,,6.3,,4
+Mägrii,Snowcap Brewing,IPA - Other,2020-08-21,3.926,,,,,6.8,,3
+ЗОЖ HOT,4BREWERS,Sour - Fruited Gose,2020-08-14,3.757,3.0,,,,6.0,,4
+Nevermont Magic Dust,Stamm Brewing,IPA - New England / Hazy,2017-10-18,4.079,50.0,,,,6.8,,4
+La Famiglia,Rewort Brewery,Sour - Traditional Gose,2020-01-10,3.909,,,,"Tomato,Red Pepper",6.9,,4
+Ingria 8,AF Brew,IPA - American,2020-08-29,3.656,75.0,Simcoe,,,6.8,,4
+Hot Wax,Zagovor Brewery,IPA - Imperial / Double New England / Hazy,2019-01-07,4.113,40.0,"Citra,Galaxy",,,6.8,19.0,4
+Tomato Method,Selfmade Brewery,Sour - Traditional Gose,2020-03-04,3.908,20.0,,,Tomato,5.6,,4
+Stability,Rewort Brewery,IPA - Imperial / Double,2020-04-09,3.779,65.0,,,,6.8,,4
+Rye Matter,Jaws,IPA - Rye,2020-06-26,3.668,80.0,"Ekuanot,Centennial,Chinook","Maris Otter,Pale Ale,Rye,Caramel",,6.5,15.0,4
+Story Mode,Stamm Brewing,IPA - Imperial / Double New England / Hazy,2020-06-29,4.056,,,,,6.8,,4
+13 Weeks And What?!,AF Brew,IPA - Triple New England / Hazy,2020-06-25,3.859,20.0,"Mosaic,Citra,Galaxy",,,6.8,,4
+Pizza Time,Sabotage,Sour - Fruited Gose,2018-10-07,3.825,10.0,,,,6.0,,4
+ABV Not IBU: Citra,AF Brew,IPA - Imperial / Double,2020-05-21,3.547,114.0,Citra,,,6.8,,4
+Criminal Damage,Zagovor Brewery,IPA - Imperial / Double,2017-11-03,3.972,45.0,Centennial,,,6.8,18.5,4
+70,Black Cat Brewery,IPA - American,2015-05-02,3.824,70.0,"El Dorado,Equinox,Mosaic,Citra",,,6.8,,4
+Stylo,Stamm Brewing,IPA - Imperial / Double New England / Hazy,2019-11-27,4.061,,"Nelson Sauvin,Mosaic,Citra,Simcoe",,,6.8,,4
+Monoplay Simcoe,Stamm Brewing,IPA - Imperial / Double New England / Hazy,2019-10-05,4.055,,,,,6.8,,4
+Punched Card,Zagovor Brewery,IPA - Triple New England / Hazy,2019-10-22,4.147,40.0,"Citra,Galaxy,Simcoe,El Dorado",,,6.8,21.5,4
+Jaws APA,Jaws,Pale Ale - American,2013-10-18,3.87,43.0,"Cascade,Chinook,Mosaic","Pale Ale,Melanoidin",,5.6,13.0,4
+Hoppy Milk,Stamm Brewing,Pale Ale - New England / Hazy,2017-08-06,3.856,30.0,,,,4.7,,4
+Fidel C.,Rewort Brewery,IPA - Imperial / Double,2018-03-30,3.842,60.0,,,,6.8,20.5,4
+All Together,AF Brew,IPA - New England / Hazy,2020-04-23,4.013,20.0,"Citra,Simcoe,Mosaic,Sabro",,,6.5,,4
+600,"Brew Division,Nøgne Ø",IPA - Triple,2020-02-21,4.11,100.0,,,,6.8,,4
+Populism Mosaic Edition,Jaws,IPA - New England / Hazy,2018-05-18,3.908,,,,,6.5,,4
+Transgression,Rewort Brewery,IPA - Triple,2019-12-06,3.974,65.0,"Mosaic,Willamette,Amarillo",,,6.8,23.9,4
+Spacebar,Zagovor Brewery,IPA - Imperial / Double New England / Hazy,2020-03-17,4.103,30.0,"Zappa,Citra",,,6.8,,4
+Iggy Hop,Brewlok,IPA - Imperial / Double,2019-11-24,3.783,120.0,"Citra,Galaxy",,,6.8,,4
+Alabama,Волковская пивоварня,Fruit Beer,2018-03-28,3.304,18.0,,,,6.5,,3
+Latte Di Lupo,Волковская пивоварня,Pale Ale - Milkshake,2018-08-25,3.385,40.0,,,,5.0,,3
+Old Sparky,AF Brew,IPA - Triple,2015-12-10,3.977,100.0,,,,6.8,,4
+Citra & Mosaic Double IPA,Salden’s Brewery,IPA - Imperial / Double,2015-05-07,3.975,100.0,,,,6.8,,5
+Distemper,Zagovor Brewery,IPA - Session,2019-09-20,4.036,24.0,"Amarillo,Mosaic,Citra",,,5.0,14.0,4
+ABV Not IBU: Amarillo,AF Brew,IPA - Imperial / Double,2014-11-22,3.9,114.0,,,,6.8,,4
+ABV Not IBU: Motueka,AF Brew,IPA - Imperial / Double,2016-12-07,3.794,114.0,,,,6.8,,4
+Ingria Pale Ale,AF Brew,IPA - American,2012-08-29,3.823,75.0,Simcoe,,,5.8,,4
+#300 Vermont IPA,Salden’s Brewery,IPA - New England / Hazy,2017-08-23,3.926,60.0,"Mosaic,Ekuanot,Citra",,,6.8,,4
+Limit Break,Stamm Brewing,IPA - Triple New England / Hazy,2019-09-10,4.253,,,,,6.8,,5
+Sangre Fresca,AF Brew,Sour - Fruited Gose,2019-12-31,3.739,,,,,4.8,,5
+Ruddy Grapefruit,Rewort Brewery,IPA - Imperial / Double,2019-10-30,3.835,58.0,,,,6.8,19.5,4
+Foggy Notion,Zagovor Brewery,IPA - New England / Hazy,2017-06-09,4.02,50.0,"Citra,Galaxy",,,6.8,,4
+Sadwave IPA,Zagovor Brewery,IPA - New England / Hazy,2017-12-24,4.009,42.0,Mosaic,,,6.5,17.0,4
+Mosaic IPA,AF Brew,IPA - American,2013-02-13,3.893,73.0,,,,6.7,,5
+3 in 1 Super Sour,Stamm Brewing,Sour - Fruited,2019-12-16,4.172,,,,"Blueberry,Strawberry,Guava",6.8,,4
+ЗОЖ,4BREWERS,Sour - Fruited Gose,2019-05-18,3.8,,,,,6.0,,4
+Ипатаж,Alaska Brewery,IPA - American,2017-02-15,3.768,,,,,6.5,,4
+A to Z,"Zagovor Brewery,AF Brew",IPA - Imperial / Double New England / Hazy,2019-12-27,4.022,30.0,"El Dorado,Idaho 7,Citra",,,6.8,,4
+Jazz & Juice,Jaws,IPA - American,2018-02-27,3.964,30.0,"Citra,Galaxy,Idaho 7","Pale Ale,Wheat,Oats",,6.5,14.5,4
+Eat the Dust! DDH Citra,AF Brew,IPA - New England / Hazy,2017-07-06,4.007,40.0,Citra,,,6.8,,5
+Oodles of Labradoodles,AF Brew,IPA - New England / Hazy,2017-10-31,3.931,,"Ella,Galaxy",,,6.7,,5
+Ковбой Мальборо,Plan B Brewery,IPA - American,2014-05-08,3.93,50.0,,,,6.5,,4
+Simple Joy,Brewlok,IPA - Triple,2018-12-07,3.904,150.0,"Mosaic,Amarillo",,,6.8,,4
+Holy DIPA,Ostrovica,IPA - Imperial / Double,2017-02-21,3.905,100.0,"Simcoe,Citra,Cascade,Centennial",,,6.8,,4
+F*ck the Dust! DDH Mosaic,AF Brew,IPA - Triple,2019-05-27,4.1,40.0,,,,6.8,,5
+Milkshake Mango,Salden’s Brewery,IPA - Milkshake,2024-04-18,3.781,,,,,6.8,,3
+My Three Hops,Stamm Brewing,IPA - Imperial / Double New England / Hazy,2019-08-09,4.137,,,,,6.8,20.0,4
+New England IPA,Artisan Brew,IPA - New England / Hazy,2019-09-07,3.353,40.0,,,,6.8,,4
+Eat the Dust! DDH Mosaic,AF Brew,IPA - New England / Hazy,2017-04-28,4.016,40.0,Mosaic,,,6.8,,5
+United Capitals,Black Cat Brewery,IPA - Imperial / Double New England / Hazy,2019-09-30,3.928,,"Citra,Galaxy",,,6.8,,4
+Old-School Double IPA,Salden’s Brewery,IPA - Imperial / Double,2016-05-25,3.956,110.0,"Cascade,Horizon,Columbus,Chinook",,,6.8,,4
